@@ -1,0 +1,8 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+112,1,Bulbasaur,"grass,poison",45,49,49,45,False,135,Norman Normal,40,Unknown,5,Charmeleon,Fire,58,64,58,80,False,109,Lance Dragonite,21,Blackthorn City,109,Completed,2024-03-13 20:24:50
+115,53,Persian,normal,65,70,60,115,False,147,Bertha Ground,60,Shaymin Village,148,Dragonair,Dragon,61,84,65,70,False,112,Leaf Green,18,Pallet Town,,In-Battle,2024-03-13 23:13:41
+295,107,Hitmonchan,fighting,50,105,79,76,False,104,Gary Oak,16,Pallet Town,94,Gengar,"ghost,Poison",60,65,60,110,False,105,May Maple,13,Petalburg City,,In-Battle,2024-03-13 13:20:14
+390,124,Jynx,"Ice,Psychic",65,50,35,95,False,116,Lt. Surge Surge,29,Vermilion City,111,Rhyhorn,"Ground,rock",80,85,95,25,False,148,Flint Fire,39,Sunnyshore City,,In-Battle,2024-03-13 12:08:31
+400,86,Seel,Water,65,45,55,45,False,150,Cynthia Champion,30,Snowpoint City,19,Rattata,normal,30,56,35,72,False,102,Misty Waterflower,12,Cerulean City,,In-Battle,2024-03-13 16:48:16
+460,17,Pidgeotto,"normal,flying",63,60,55,71,False,141,Phoebe Ghost,27,Mount Pyre,87,Dewgong,"Water,ice",90,70,80,70,False,138,Liza Psychic,12,Mossdeep City,,In-Battle,2024-03-13 15:56:25
+295,107,Hitmonchan,fighting,50,105,79,76,False,104,Gary Oak,16,Pallet Town,94,Gengar,"ghost,Poison",60,65,60,110,False,105,May Maple,13,Petalburg City,,In-Battle,2024-03-13 13:20:14

@@ -1,0 +1,8 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+222,74,Geodude,"rock,Ground",40,80,100,20,False,121,Janine Poison,15,Fuchsia City,37,Vulpix,fire,38,41,40,65,False,102,Misty Waterflower,12,Cerulean City,,In-Battle,2024-02-29 14:01:55
+308,39,Jigglypuff,"Normal,fairy",115,45,20,20,False,149,Lucian Psychic,28,Sunyshore City,84,Doduo,"normal,flying",35,85,45,75,False,140,Sidney Dark,24,Lilycove City,,In-Battle,2024-02-29 08:48:07
+321,27,Sandshrew,ground,50,75,85,40,False,101,Ash Ketchum,16,Pallet Town,5,Charmeleon,Fire,58,64,58,80,False,120,Koga Poison,30,Unknown,,In-Battle,2024-02-29 23:00:32
+419,120,Staryu,water,30,45,55,85,False,125,Pryce Ice,60,Mahogany Town,58,Growlithe,Fire,55,70,45,60,False,131,Roxanne Rock,17,Rustboro City,,In-Battle,2024-02-29 09:32:44
+428,128,Tauros,Normal,75,100,95,110,False,149,Lucian Psychic,28,Sunyshore City,56,Mankey,fighting,40,80,35,70,False,108,Steven Stone,25,Mossdeep City,,In-Battle,2024-02-29 08:06:05
+455,54,Psyduck,Water,50,52,48,55,False,148,Flint Fire,39,Sunnyshore City,39,Jigglypuff,"Normal,Fairy",115,45,20,20,False,110,Red Champion,18,Pallet Town,,In-Battle,2024-02-29 03:12:20
+477,3,Venusaur,"Grass,Poison",80,82,83,80,False,125,Pryce Ice,60,Mahogany Town,23,Ekans,Poison,35,60,44,55,False,115,Giovanni Rocket,35,Viridian City,,In-Battle,2024-02-29 10:07:10

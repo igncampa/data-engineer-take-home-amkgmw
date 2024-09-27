@@ -1,0 +1,8 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+33,113,Chansey,Normal,250,5,5,50,False,115,Giovanni Rocket,35,Viridian City,32,Nidoran♂,poison,46,57,40,50,False,119,Blaine Fire,50,Cinnabar Island,,In-Battle,2024-02-13 01:43:11
+174,25,Pikachu,electric,35,55,40,90,False,135,Norman Normal,40,Unknown,37,Vulpix,fire,38,41,40,65,False,116,Lt. Surge Surge,29,Vermilion City,116,Completed,2024-02-13 13:11:54
+198,69,Bellsprout,"Grass,poison",50,75,35,40,False,146,Aaron Bug,19,Sandgem Town,102,Exeggcute,"Grass,Psychic",60,40,80,40,False,144,Wallace Milotic,33,Sootopolis City,,In-Battle,2024-02-13 11:01:53
+296,106,Hitmonlee,fighting,50,120,53,87,False,136,Winona Flying,28,Fortree City,78,Rapidash,Fire,65,100,70,105,False,106,Dawn Berlitz,10,Twinleaf Town,,In-Battle,2024-02-13 01:16:51
+305,91,Cloyster,"Water,Ice",50,95,180,70,False,112,Leaf Green,18,Pallet Town,100,Voltorb,Electric,40,30,50,100,False,113,Wallace Juan,24,Sootopolis City,,In-Battle,2024-02-13 05:27:09
+424,56,Mankey,Fighting,40,80,35,70,False,118,Sabrina Psychic,20,Saffron City,50,Diglett,Ground,10,55,25,95,False,132,Brawly Fighting,20,Dewford Town,,In-Battle,2024-02-13 07:39:04
+483,47,Parasect,"Bug,Grass",60,95,80,30,False,145,Steven Champion,35,Mossdeep City,32,Nidoran♂,Poison,46,57,40,50,False,102,Misty Waterflower,12,Cerulean City,,In-Battle,2024-02-13 15:25:07

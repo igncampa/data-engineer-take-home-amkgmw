@@ -1,0 +1,15 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+45,1,Bulbasaur,"Grass,Poison",45,49,49,45,False,116,Lt. Surge Surge,29,Vermilion City,6,Charizard,"fire,flying",78,84,78,100,False,121,Janine Poison,15,Fuchsia City,116,Completed,2024-05-05 08:48:36
+97,68,Machamp,fighting,90,130,80,55,False,102,Misty Waterflower,12,Cerulean City,7,Squirtle,Water,44,48,65,43,False,148,Flint Fire,39,Sunnyshore City,,In-Battle,2024-05-05 13:36:34
+129,31,Nidoqueen,"poison,ground",90,92,87,76,False,112,Leaf Green,18,Pallet Town,67,Machoke,fighting,80,100,70,45,False,136,Winona Flying,28,Fortree City,112,Completed,2024-05-05 08:45:28
+141,33,Nidorino,poison,61,72,57,65,False,122,Clair Dragon,21,Blackthorn City,45,Vileplume,"Grass,Poison",75,80,85,50,False,124,Morty Ghost,25,Ecruteak City,,In-Battle,2024-05-05 06:46:55
+163,131,Lapras,"water,ice",130,85,80,60,False,106,Dawn Berlitz,10,Twinleaf Town,42,Golbat,"poison,Flying",75,80,70,90,False,107,Cynthia Shirona,28,Snowpoint City,106,Completed,2024-05-05 09:33:40
+183,72,Tentacool,"Water,Poison",40,40,35,70,False,103,Brock Slate,15,Pewter City,60,Poliwag,Water,40,50,40,90,False,121,Janine Poison,15,Fuchsia City,,In-Battle,2024-05-05 15:52:11
+190,82,Magneton,"Electric,Steel",50,60,95,70,False,117,Erika Celadon,22,Celadon City,61,Poliwhirl,Water,65,65,65,90,False,106,Dawn Berlitz,10,Twinleaf Town,106,Completed,2024-05-05 23:45:42
+283,83,Farfetch'd,"Normal,flying",52,65,55,60,False,122,Clair Dragon,21,Blackthorn City,45,Vileplume,"grass,Poison",75,80,85,50,False,130,Karen Dark,22,Blackthorn City,122,Completed,2024-05-05 04:27:44
+291,109,Koffing,Poison,40,65,95,35,False,122,Clair Dragon,21,Blackthorn City,67,Machoke,fighting,80,100,70,45,False,140,Sidney Dark,24,Lilycove City,122,Completed,2024-05-05 10:09:30
+294,100,Voltorb,electric,40,30,50,100,False,119,Blaine Fire,50,Cinnabar Island,38,Ninetales,Fire,73,76,75,100,False,134,Flannery Fire,23,Lavaridge Town,,In-Battle,2024-05-05 13:30:44
+386,34,Nidoking,"poison,ground",81,102,77,85,False,101,Ash Ketchum,16,Pallet Town,95,Onix,"Rock,Ground",35,45,160,70,False,131,Roxanne Rock,17,Rustboro City,101,Completed,2024-05-05 06:31:36
+454,142,Aerodactyl,"rock,Flying",80,105,65,130,False,124,Morty Ghost,25,Ecruteak City,29,Nidoran♀,Poison,55,47,52,41,False,139,Juan Water,32,Sootopolis City,124,Completed,2024-05-05 20:49:45
+459,142,Aerodactyl,"rock,Flying",80,105,65,130,False,136,Winona Flying,28,Fortree City,85,Dodrio,"Normal,flying",60,110,70,100,False,149,Lucian Psychic,28,Sunyshore City,149,Completed,2024-05-05 18:13:05
+477,3,Venusaur,"Grass,Poison",80,82,83,80,False,125,Pryce Ice,60,Mahogany Town,23,Ekans,Poison,35,60,44,55,False,115,Giovanni Rocket,35,Viridian City,115,Completed,2024-05-05 00:34:48

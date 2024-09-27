@@ -1,0 +1,11 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+53,24,Arbok,poison,60,85,69,80,False,135,Norman Normal,40,Unknown,106,Hitmonlee,fighting,50,120,53,87,False,146,Aaron Bug,19,Sandgem Town,146,Completed,2024-05-23 07:59:13
+116,11,Metapod,bug,50,20,55,30,False,141,Phoebe Ghost,27,Mount Pyre,33,Nidorino,poison,61,72,57,65,False,127,Jasmine Steel,19,Olivine City,,In-Battle,2024-05-23 17:43:53
+173,67,Machoke,fighting,80,100,70,45,False,114,N Natural,24,Unknown,27,Sandshrew,Ground,50,75,85,40,False,113,Wallace Juan,24,Sootopolis City,113,Completed,2024-05-23 02:39:59
+211,146,Moltres,"Fire,Flying",90,100,90,90,True,134,Flannery Fire,23,Lavaridge Town,21,Spearow,"normal,flying",40,60,30,70,False,105,May Maple,13,Petalburg City,134,Completed,2024-05-23 04:58:52
+224,101,Electrode,Electric,60,50,70,140,False,137,Tate Psychic,12,Mossdeep City,136,Flareon,Fire,65,130,60,65,False,139,Juan Water,32,Sootopolis City,,In-Battle,2024-05-23 03:23:30
+237,132,Ditto,Normal,48,48,48,48,False,142,Glacia Ice,29,Mossdeep City,51,Dugtrio,Ground,35,80,50,120,False,146,Aaron Bug,19,Sandgem Town,142,Completed,2024-05-23 08:18:46
+330,13,Weedle,"Bug,poison",40,35,30,50,False,140,Sidney Dark,24,Lilycove City,146,Moltres,"Fire,Flying",90,100,90,90,True,143,Drake Dragon,45,Slateport City,143,Completed,2024-05-23 19:32:49
+340,71,Victreebel,"Grass,poison",80,105,65,70,False,143,Drake Dragon,45,Slateport City,150,Mewtwo,psychic,106,110,90,130,True,127,Jasmine Steel,19,Olivine City,127,Completed,2024-05-23 14:08:34
+389,31,Nidoqueen,"Poison,ground",90,92,87,76,False,116,Lt. Surge Surge,29,Vermilion City,71,Victreebel,"grass,Poison",80,105,65,70,False,126,Chuck Fighting,40,Cianwood City,126,Completed,2024-05-23 15:38:44
+407,44,Gloom,"grass,poison",60,65,70,40,False,121,Janine Poison,15,Fuchsia City,141,Kabutops,"Rock,Water",60,115,105,80,False,101,Ash Ketchum,16,Pallet Town,121,Completed,2024-05-23 12:21:27

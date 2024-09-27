@@ -1,0 +1,7 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+40,148,Dragonair,dragon,61,84,65,70,False,109,Lance Dragonite,21,Blackthorn City,90,Shellder,Water,30,65,100,40,False,104,Gary Oak,16,Pallet Town,,In-Battle,2024-03-11 05:03:28
+158,33,Nidorino,poison,61,72,57,65,False,139,Juan Water,32,Sootopolis City,82,Magneton,"electric,Steel",50,60,95,70,False,104,Gary Oak,16,Pallet Town,,In-Battle,2024-03-11 01:13:57
+238,66,Machop,Fighting,70,80,50,35,False,120,Koga Poison,30,Unknown,38,Ninetales,fire,73,76,75,100,False,126,Chuck Fighting,40,Cianwood City,126,Completed,2024-03-11 00:15:27
+250,40,Wigglytuff,"Normal,Fairy",140,70,45,45,False,118,Sabrina Psychic,20,Saffron City,146,Moltres,"fire,Flying",90,100,90,90,True,120,Koga Poison,30,Unknown,,In-Battle,2024-03-11 10:47:43
+261,33,Nidorino,poison,61,72,57,65,False,107,Cynthia Shirona,28,Snowpoint City,92,Gastly,"Ghost,poison",30,35,30,80,False,118,Sabrina Psychic,20,Saffron City,107,Completed,2024-03-11 07:30:33
+265,113,Chansey,Normal,250,5,5,50,False,102,Misty Waterflower,12,Cerulean City,96,Drowzee,Psychic,60,48,45,42,False,110,Red Champion,18,Pallet Town,110,Completed,2024-03-11 03:36:57

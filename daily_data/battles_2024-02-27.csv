@@ -1,0 +1,7 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+139,151,Mew,psychic,100,100,100,100,True,126,Chuck Fighting,40,Cianwood City,26,Raichu,Electric,60,90,55,110,False,109,Lance Dragonite,21,Blackthorn City,126,Completed,2024-02-27 13:50:10
+207,47,Parasect,"bug,Grass",60,95,80,30,False,137,Tate Psychic,12,Mossdeep City,29,Nidoran♀,poison,55,47,52,41,False,125,Pryce Ice,60,Mahogany Town,125,Completed,2024-02-27 03:37:25
+209,27,Sandshrew,ground,50,75,85,40,False,148,Flint Fire,39,Sunnyshore City,55,Golduck,water,80,82,78,85,False,111,Blue Oak,18,Pallet Town,,In-Battle,2024-02-27 07:26:34
+303,53,Persian,Normal,65,70,60,115,False,125,Pryce Ice,60,Mahogany Town,30,Nidorina,poison,70,62,67,56,False,130,Karen Dark,22,Blackthorn City,,In-Battle,2024-02-27 05:00:22
+343,45,Vileplume,"Grass,poison",75,80,85,50,False,143,Drake Dragon,45,Slateport City,5,Charmeleon,Fire,58,64,58,80,False,116,Lt. Surge Surge,29,Vermilion City,,In-Battle,2024-02-27 00:52:14
+406,121,Starmie,"Water,Psychic",60,75,85,115,False,143,Drake Dragon,45,Slateport City,75,Graveler,"Rock,Ground",55,95,115,35,False,139,Juan Water,32,Sootopolis City,,In-Battle,2024-02-27 03:22:16

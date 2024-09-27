@@ -1,0 +1,12 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+61,41,Zubat,"Poison,flying",40,45,35,55,False,140,Sidney Dark,24,Lilycove City,119,Seaking,Water,80,92,65,68,False,126,Chuck Fighting,40,Cianwood City,140,Completed,2024-05-17 19:27:06
+90,106,Hitmonlee,Fighting,50,120,53,87,False,119,Blaine Fire,50,Cinnabar Island,148,Dragonair,dragon,61,84,65,70,False,144,Wallace Milotic,33,Sootopolis City,144,Completed,2024-05-17 07:58:18
+103,38,Ninetales,Fire,73,76,75,100,False,120,Koga Poison,30,Unknown,7,Squirtle,Water,44,48,65,43,False,135,Norman Normal,40,Unknown,,In-Battle,2024-05-17 20:54:20
+211,146,Moltres,"Fire,Flying",90,100,90,90,True,134,Flannery Fire,23,Lavaridge Town,21,Spearow,"normal,flying",40,60,30,70,False,105,May Maple,13,Petalburg City,,In-Battle,2024-05-17 16:00:33
+269,44,Gloom,"grass,Poison",60,65,70,40,False,135,Norman Normal,40,Unknown,5,Charmeleon,fire,58,64,58,80,False,102,Misty Waterflower,12,Cerulean City,,In-Battle,2024-05-17 09:30:58
+277,81,Magnemite,"Electric,Steel",25,35,70,45,False,126,Chuck Fighting,40,Cianwood City,43,Oddish,"grass,poison",45,50,55,30,False,117,Erika Celadon,22,Celadon City,126,Completed,2024-05-17 01:23:54
+286,113,Chansey,Normal,250,5,5,50,False,112,Leaf Green,18,Pallet Town,39,Jigglypuff,"Normal,Fairy",115,45,20,20,False,123,Whitney Normal,16,Goldenrod City,112,Completed,2024-05-17 23:34:08
+356,68,Machamp,Fighting,90,130,80,55,False,134,Flannery Fire,23,Lavaridge Town,114,Tangela,grass,65,55,115,60,False,119,Blaine Fire,50,Cinnabar Island,,In-Battle,2024-05-17 16:36:43
+360,38,Ninetales,Fire,73,76,75,100,False,116,Lt. Surge Surge,29,Vermilion City,105,Marowak,ground,60,80,110,45,False,143,Drake Dragon,45,Slateport City,143,Completed,2024-05-17 00:27:14
+433,57,Primeape,Fighting,65,105,60,95,False,110,Red Champion,18,Pallet Town,50,Diglett,Ground,10,55,25,95,False,135,Norman Normal,40,Unknown,135,Completed,2024-05-17 15:11:01
+463,82,Magneton,"Electric,Steel",50,60,95,70,False,106,Dawn Berlitz,10,Twinleaf Town,33,Nidorino,Poison,61,72,57,65,False,103,Brock Slate,15,Pewter City,103,Completed,2024-05-17 08:23:13

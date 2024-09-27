@@ -1,0 +1,13 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+34,4,Charmander,Fire,39,52,43,65,False,133,Wattson Electric,35,Mauville City,60,Poliwag,water,40,50,40,90,False,126,Chuck Fighting,40,Cianwood City,133,Completed,2024-05-13 03:10:14
+40,148,Dragonair,dragon,61,84,65,70,False,109,Lance Dragonite,21,Blackthorn City,90,Shellder,Water,30,65,100,40,False,104,Gary Oak,16,Pallet Town,104,Completed,2024-05-13 18:08:45
+42,34,Nidoking,"poison,ground",81,102,77,85,False,150,Cynthia Champion,30,Snowpoint City,137,Porygon,Normal,65,60,70,40,False,124,Morty Ghost,25,Ecruteak City,150,Completed,2024-05-13 06:26:02
+132,33,Nidorino,poison,61,72,57,65,False,105,May Maple,13,Petalburg City,49,Venomoth,"bug,poison",70,65,60,90,False,116,Lt. Surge Surge,29,Vermilion City,105,Completed,2024-05-13 20:34:17
+140,101,Electrode,Electric,60,50,70,140,False,122,Clair Dragon,21,Blackthorn City,14,Kakuna,"bug,poison",45,25,50,35,False,120,Koga Poison,30,Unknown,120,Completed,2024-05-13 22:18:43
+176,121,Starmie,"Water,psychic",60,75,85,115,False,131,Roxanne Rock,17,Rustboro City,29,Nidoran♀,Poison,55,47,52,41,False,120,Koga Poison,30,Unknown,,In-Battle,2024-05-13 14:10:02
+202,46,Paras,"bug,grass",35,70,55,25,False,129,Bugsy Bug,16,Azalea Town,18,Pidgeot,"normal,flying",83,80,75,101,False,138,Liza Psychic,12,Mossdeep City,138,Completed,2024-05-13 10:39:18
+208,19,Rattata,Normal,30,56,35,72,False,104,Gary Oak,16,Pallet Town,100,Voltorb,Electric,40,30,50,100,False,112,Leaf Green,18,Pallet Town,,In-Battle,2024-05-13 06:20:12
+221,28,Sandslash,ground,75,100,110,65,False,103,Brock Slate,15,Pewter City,89,Muk,poison,105,105,75,50,False,142,Glacia Ice,29,Mossdeep City,142,Completed,2024-05-13 16:40:49
+286,113,Chansey,Normal,250,5,5,50,False,112,Leaf Green,18,Pallet Town,39,Jigglypuff,"Normal,Fairy",115,45,20,20,False,123,Whitney Normal,16,Goldenrod City,,In-Battle,2024-05-13 05:28:00
+368,72,Tentacool,"Water,Poison",40,40,35,70,False,130,Karen Dark,22,Blackthorn City,112,Rhydon,"ground,Rock",105,130,120,40,False,106,Dawn Berlitz,10,Twinleaf Town,130,Completed,2024-05-13 20:27:12
+221,28,Sandslash,ground,75,100,110,65,False,103,Brock Slate,15,Pewter City,89,Muk,poison,105,105,75,50,False,142,Glacia Ice,29,Mossdeep City,142,Completed,2024-05-13 16:40:49

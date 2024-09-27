@@ -1,0 +1,6 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+68,12,Butterfree,"Bug,Flying",60,45,50,70,False,113,Wallace Juan,24,Sootopolis City,135,Jolteon,electric,65,65,60,130,False,108,Steven Stone,25,Mossdeep City,108,Completed,2024-04-06 12:59:05
+164,40,Wigglytuff,"Normal,fairy",140,70,45,45,False,143,Drake Dragon,45,Slateport City,78,Rapidash,Fire,65,100,70,105,False,103,Brock Slate,15,Pewter City,143,Completed,2024-04-06 15:58:20
+242,5,Charmeleon,Fire,58,64,58,80,False,112,Leaf Green,18,Pallet Town,11,Metapod,bug,50,20,55,30,False,136,Winona Flying,28,Fortree City,,In-Battle,2024-04-06 22:54:07
+369,80,Slowbro,"Water,psychic",95,75,110,30,False,135,Norman Normal,40,Unknown,140,Kabuto,"Rock,Water",30,80,90,55,False,144,Wallace Milotic,33,Sootopolis City,,In-Battle,2024-04-06 01:54:37
+422,131,Lapras,"Water,ice",130,85,80,60,False,142,Glacia Ice,29,Mossdeep City,96,Drowzee,Psychic,60,48,45,42,False,104,Gary Oak,16,Pallet Town,,In-Battle,2024-04-06 11:17:41

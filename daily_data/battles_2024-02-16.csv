@@ -1,0 +1,4 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+54,146,Moltres,"fire,flying",90,100,90,90,True,133,Wattson Electric,35,Mauville City,96,Drowzee,Psychic,60,48,45,42,False,127,Jasmine Steel,19,Olivine City,133,Completed,2024-02-16 09:04:15
+226,20,Raticate,Normal,55,81,60,97,False,107,Cynthia Shirona,28,Snowpoint City,86,Seel,water,65,45,55,45,False,115,Giovanni Rocket,35,Viridian City,,In-Battle,2024-02-16 11:34:02
+448,11,Metapod,bug,50,20,55,30,False,105,May Maple,13,Petalburg City,105,Marowak,ground,60,80,110,45,False,127,Jasmine Steel,19,Olivine City,,In-Battle,2024-02-16 07:54:08

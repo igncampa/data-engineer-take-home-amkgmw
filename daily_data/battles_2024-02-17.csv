@@ -1,0 +1,5 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+41,65,Alakazam,psychic,55,50,45,120,False,138,Liza Psychic,12,Mossdeep City,19,Rattata,Normal,30,56,35,72,False,108,Steven Stone,25,Mossdeep City,,In-Battle,2024-02-17 10:30:46
+138,40,Wigglytuff,"Normal,fairy",140,70,45,45,False,125,Pryce Ice,60,Mahogany Town,14,Kakuna,"bug,poison",45,25,50,35,False,148,Flint Fire,39,Sunnyshore City,,In-Battle,2024-02-17 21:38:50
+152,31,Nidoqueen,"Poison,ground",90,92,87,76,False,146,Aaron Bug,19,Sandgem Town,89,Muk,poison,105,105,75,50,False,139,Juan Water,32,Sootopolis City,,In-Battle,2024-02-17 10:02:59
+353,120,Staryu,water,30,45,55,85,False,129,Bugsy Bug,16,Azalea Town,48,Venonat,"Bug,Poison",60,55,50,45,False,123,Whitney Normal,16,Goldenrod City,,In-Battle,2024-02-17 23:18:16

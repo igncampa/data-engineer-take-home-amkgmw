@@ -1,0 +1,7 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+25,39,Jigglypuff,"Normal,fairy",115,45,20,20,False,131,Roxanne Rock,17,Rustboro City,72,Tentacool,"Water,poison",40,40,35,70,False,103,Brock Slate,15,Pewter City,,In-Battle,2024-03-01 23:11:07
+258,28,Sandslash,Ground,75,100,110,65,False,114,N Natural,24,Unknown,38,Ninetales,fire,73,76,75,100,False,123,Whitney Normal,16,Goldenrod City,,In-Battle,2024-03-01 05:51:39
+309,45,Vileplume,"Grass,poison",75,80,85,50,False,111,Blue Oak,18,Pallet Town,44,Gloom,"grass,poison",60,65,70,40,False,118,Sabrina Psychic,20,Saffron City,,In-Battle,2024-03-01 19:30:56
+351,62,Poliwrath,"Water,fighting",90,95,95,70,False,119,Blaine Fire,50,Cinnabar Island,45,Vileplume,"grass,Poison",75,80,85,50,False,131,Roxanne Rock,17,Rustboro City,,In-Battle,2024-03-01 12:18:56
+387,89,Muk,Poison,105,105,75,50,False,132,Brawly Fighting,20,Dewford Town,32,Nidoran♂,poison,46,57,40,50,False,117,Erika Celadon,22,Celadon City,,In-Battle,2024-03-01 07:20:21
+401,16,Pidgey,"Normal,Flying",40,45,40,56,False,141,Phoebe Ghost,27,Mount Pyre,14,Kakuna,"bug,Poison",45,25,50,35,False,150,Cynthia Champion,30,Snowpoint City,150,Completed,2024-03-01 22:51:09

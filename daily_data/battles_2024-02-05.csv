@@ -1,0 +1,5 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+67,85,Dodrio,"normal,Flying",60,110,70,100,False,126,Chuck Fighting,40,Cianwood City,88,Grimer,Poison,80,80,50,25,False,137,Tate Psychic,12,Mossdeep City,126,Completed,2024-02-05 19:28:37
+114,116,Horsea,Water,30,40,70,60,False,126,Chuck Fighting,40,Cianwood City,148,Dragonair,dragon,61,84,65,70,False,107,Cynthia Shirona,28,Snowpoint City,107,Completed,2024-02-05 18:33:19
+200,60,Poliwag,water,40,50,40,90,False,113,Wallace Juan,24,Sootopolis City,1,Bulbasaur,"Grass,poison",45,49,49,45,False,128,Falkner Flying,17,Violet City,113,Completed,2024-02-05 18:24:47
+338,104,Cubone,Ground,50,50,95,35,False,102,Misty Waterflower,12,Cerulean City,30,Nidorina,poison,70,62,67,56,False,115,Giovanni Rocket,35,Viridian City,,In-Battle,2024-02-05 03:31:00

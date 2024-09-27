@@ -1,0 +1,23 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+25,39,Jigglypuff,"Normal,fairy",115,45,20,20,False,131,Roxanne Rock,17,Rustboro City,72,Tentacool,"Water,poison",40,40,35,70,False,103,Brock Slate,15,Pewter City,131,Completed,2024-05-20 11:09:41
+48,126,Magmar,fire,65,95,57,93,False,139,Juan Water,32,Sootopolis City,52,Meowth,Normal,40,45,35,90,False,147,Bertha Ground,60,Shaymin Village,147,Completed,2024-05-20 23:34:38
+85,87,Dewgong,"Water,Ice",90,70,80,70,False,117,Erika Celadon,22,Celadon City,134,Vaporeon,water,130,65,60,65,False,105,May Maple,13,Petalburg City,105,Completed,2024-05-20 16:01:21
+89,84,Doduo,"normal,flying",35,85,45,75,False,134,Flannery Fire,23,Lavaridge Town,78,Rapidash,Fire,65,100,70,105,False,102,Misty Waterflower,12,Cerulean City,102,Completed,2024-05-20 10:49:31
+98,61,Poliwhirl,water,65,65,65,90,False,146,Aaron Bug,19,Sandgem Town,83,Farfetch'd,"Normal,Flying",52,65,55,60,False,112,Leaf Green,18,Pallet Town,,In-Battle,2024-05-20 01:17:21
+137,55,Golduck,water,80,82,78,85,False,142,Glacia Ice,29,Mossdeep City,6,Charizard,"fire,flying",78,84,78,100,False,105,May Maple,13,Petalburg City,105,Completed,2024-05-20 09:39:08
+157,120,Staryu,Water,30,45,55,85,False,125,Pryce Ice,60,Mahogany Town,56,Mankey,fighting,40,80,35,70,False,149,Lucian Psychic,28,Sunyshore City,149,Completed,2024-05-20 13:59:17
+173,67,Machoke,fighting,80,100,70,45,False,114,N Natural,24,Unknown,27,Sandshrew,Ground,50,75,85,40,False,113,Wallace Juan,24,Sootopolis City,,In-Battle,2024-05-20 18:05:05
+196,35,Clefairy,Fairy,70,45,48,35,False,139,Juan Water,32,Sootopolis City,129,Magikarp,Water,20,10,55,80,False,111,Blue Oak,18,Pallet Town,111,Completed,2024-05-20 12:52:17
+204,118,Goldeen,water,45,67,60,63,False,102,Misty Waterflower,12,Cerulean City,139,Omastar,"rock,water",70,60,125,55,False,143,Drake Dragon,45,Slateport City,143,Completed,2024-05-20 00:06:03
+225,43,Oddish,"grass,Poison",45,50,55,30,False,105,May Maple,13,Petalburg City,137,Porygon,Normal,65,60,70,40,False,135,Norman Normal,40,Unknown,105,Completed,2024-05-20 00:42:03
+231,58,Growlithe,Fire,55,70,45,60,False,108,Steven Stone,25,Mossdeep City,107,Hitmonchan,Fighting,50,105,79,76,False,136,Winona Flying,28,Fortree City,136,Completed,2024-05-20 03:53:53
+256,76,Golem,"Rock,Ground",80,120,130,45,False,139,Juan Water,32,Sootopolis City,96,Drowzee,psychic,60,48,45,42,False,106,Dawn Berlitz,10,Twinleaf Town,,In-Battle,2024-05-20 15:54:43
+294,100,Voltorb,electric,40,30,50,100,False,119,Blaine Fire,50,Cinnabar Island,38,Ninetales,Fire,73,76,75,100,False,134,Flannery Fire,23,Lavaridge Town,134,Completed,2024-05-20 03:41:49
+318,88,Grimer,poison,80,80,50,25,False,150,Cynthia Champion,30,Snowpoint City,92,Gastly,"Ghost,poison",30,35,30,80,False,135,Norman Normal,40,Unknown,135,Completed,2024-05-20 09:57:43
+320,111,Rhyhorn,"ground,rock",80,85,95,25,False,131,Roxanne Rock,17,Rustboro City,146,Moltres,"Fire,Flying",90,100,90,90,True,138,Liza Psychic,12,Mossdeep City,138,Completed,2024-05-20 22:05:08
+331,151,Mew,psychic,100,100,100,100,True,132,Brawly Fighting,20,Dewford Town,137,Porygon,Normal,65,60,70,40,False,107,Cynthia Shirona,28,Snowpoint City,132,Completed,2024-05-20 02:12:21
+332,127,Pinsir,bug,65,125,100,85,False,133,Wattson Electric,35,Mauville City,125,Electabuzz,electric,65,83,57,105,False,146,Aaron Bug,19,Sandgem Town,146,Completed,2024-05-20 10:51:38
+379,119,Seaking,water,80,92,65,68,False,104,Gary Oak,16,Pallet Town,128,Tauros,Normal,75,100,95,110,False,103,Brock Slate,15,Pewter City,103,Completed,2024-05-20 22:56:55
+456,119,Seaking,Water,80,92,65,68,False,150,Cynthia Champion,30,Snowpoint City,149,Dragonite,"Dragon,Flying",91,134,95,80,False,142,Glacia Ice,29,Mossdeep City,150,Completed,2024-05-20 03:38:06
+466,26,Raichu,electric,60,90,55,110,False,134,Flannery Fire,23,Lavaridge Town,98,Krabby,water,30,105,90,50,False,143,Drake Dragon,45,Slateport City,143,Completed,2024-05-20 17:42:38
+157,120,Staryu,Water,30,45,55,85,False,125,Pryce Ice,60,Mahogany Town,56,Mankey,fighting,40,80,35,70,False,149,Lucian Psychic,28,Sunyshore City,149,Completed,2024-05-20 13:59:17

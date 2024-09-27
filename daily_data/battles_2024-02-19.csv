@@ -1,0 +1,6 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+15,99,Kingler,water,55,130,115,75,False,134,Flannery Fire,23,Lavaridge Town,64,Kadabra,psychic,40,35,30,105,False,127,Jasmine Steel,19,Olivine City,,In-Battle,2024-02-19 03:14:37
+139,151,Mew,psychic,100,100,100,100,True,126,Chuck Fighting,40,Cianwood City,26,Raichu,Electric,60,90,55,110,False,109,Lance Dragonite,21,Blackthorn City,,In-Battle,2024-02-19 16:01:06
+167,46,Paras,"Bug,grass",35,70,55,25,False,112,Leaf Green,18,Pallet Town,95,Onix,"Rock,ground",35,45,160,70,False,105,May Maple,13,Petalburg City,105,Completed,2024-02-19 11:49:53
+181,93,Haunter,"ghost,Poison",45,50,45,95,False,103,Brock Slate,15,Pewter City,39,Jigglypuff,"normal,fairy",115,45,20,20,False,105,May Maple,13,Petalburg City,,In-Battle,2024-02-19 09:09:45
+353,120,Staryu,water,30,45,55,85,False,129,Bugsy Bug,16,Azalea Town,48,Venonat,"Bug,Poison",60,55,50,45,False,123,Whitney Normal,16,Goldenrod City,129,Completed,2024-02-19 21:31:48

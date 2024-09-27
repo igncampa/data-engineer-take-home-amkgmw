@@ -1,0 +1,23 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+26,33,Nidorino,Poison,61,72,57,65,False,132,Brawly Fighting,20,Dewford Town,1,Bulbasaur,"grass,poison",45,49,49,45,False,134,Flannery Fire,23,Lavaridge Town,,Planned,2024-01-24 23:35:30
+56,137,Porygon,Normal,65,60,70,,False,117,Erika Celadon,22,Celadon City,30,Nidorina,poison,70,62,67,56,False,131,Roxanne Rock,17,Rustboro City,,Planned,2024-01-24 06:42:40
+108,83,Farfetch'd,"normal,Flying",,65,55,60,False,139,Juan Water,32,Sootopolis City,11,Metapod,bug,50,,55,30,False,146,Aaron Bug,19,Sandgem Town,,Planned,2024-01-24 13:16:24
+157,120,Staryu,Water,30,45,55,85,False,125,Pryce Ice,60,Mahogany Town,56,Mankey,fighting,,80,35,70,False,149,Lucian Psychic,28,Sunyshore City,,Planned,2024-01-24 12:13:02
+188,13,Weedle,"bug,poison",40,,30,50,False,125,Pryce Ice,60,Mahogany Town,141,Kabutops,"rock,Water",60,,105,80,False,122,Clair Dragon,21,Blackthorn City,,Planned,2024-01-24 07:54:07
+189,52,Meowth,Normal,,,,90,False,130,Karen Dark,22,Blackthorn City,133,Eevee,Normal,,55,,55,False,123,Whitney Normal,16,Goldenrod City,,Planned,2024-01-24 11:24:33
+193,44,Gloom,"Grass,Poison",,65,70,40,False,115,Giovanni Rocket,35,Viridian City,75,Graveler,"rock,ground",55,,115,35,False,148,Flint Fire,39,Sunnyshore City,,Planned,2024-01-24 17:41:48
+210,49,Venomoth,"bug,poison",70,65,60,90,False,112,Leaf Green,18,Pallet Town,29,Nidoran♀,poison,55,47,52,41,False,121,Janine Poison,15,Fuchsia City,,Planned,2024-01-24 21:23:02
+242,5,Charmeleon,Fire,,64,,80,False,112,Leaf Green,18,Pallet Town,11,Metapod,bug,50,,,,False,136,Winona Flying,28,Fortree City,,Planned,2024-01-24 03:36:22
+267,10,Caterpie,bug,45,30,35,,False,140,Sidney Dark,24,Lilycove City,6,Charizard,"fire,Flying",78,84,78,100,False,104,Gary Oak,16,Pallet Town,,Planned,2024-01-24 20:37:19
+302,33,Nidorino,Poison,61,,57,,False,126,Chuck Fighting,40,Cianwood City,39,Jigglypuff,"normal,fairy",115,45,20,20,False,135,Norman Normal,40,Unknown,,Planned,2024-01-24 07:38:51
+314,84,Doduo,"normal,flying",35,85,45,75,False,144,Wallace Milotic,33,Sootopolis City,102,Exeggcute,"Grass,psychic",60,40,,40,False,106,Dawn Berlitz,10,Twinleaf Town,,Planned,2024-01-24 05:52:34
+318,88,Grimer,poison,,80,,,False,150,Cynthia Champion,30,Snowpoint City,92,Gastly,"Ghost,poison",,35,30,80,False,135,Norman Normal,40,Unknown,,Planned,2024-01-24 03:39:22
+329,6,Charizard,"fire,Flying",,,78,100,False,146,Aaron Bug,19,Sandgem Town,108,Lickitung,normal,90,,75,30,False,147,Bertha Ground,60,Shaymin Village,,Planned,2024-01-24 00:59:01
+340,71,Victreebel,"Grass,poison",80,105,65,70,False,143,Drake Dragon,45,Slateport City,150,Mewtwo,psychic,106,110,,,True,127,Jasmine Steel,19,Olivine City,,Planned,2024-01-24 01:34:53
+381,71,Victreebel,"grass,poison",,105,65,70,False,128,Falkner Flying,17,Violet City,65,Alakazam,psychic,55,50,45,120,False,122,Clair Dragon,21,Blackthorn City,,Planned,2024-01-24 12:45:00
+401,16,Pidgey,"Normal,Flying",,45,40,,False,141,Phoebe Ghost,27,Mount Pyre,14,Kakuna,"bug,Poison",,25,,35,False,150,Cynthia Champion,30,Snowpoint City,,Planned,2024-01-24 17:51:05
+466,26,Raichu,electric,60,90,55,110,False,134,Flannery Fire,23,Lavaridge Town,98,Krabby,water,30,105,,,False,143,Drake Dragon,45,Slateport City,,Planned,2024-01-24 04:17:25
+161,84,Doduo,"Normal,Flying",35,85,45,75,False,111,Blue Oak,18,Pallet Town,62,Poliwrath,"Water,Fighting",90,95,95,70,False,109,Lance Dragonite,21,Blackthorn City,,In-Battle,2024-01-24 04:19:34
+185,26,Raichu,electric,60,90,55,110,False,110,Red Champion,18,Pallet Town,41,Zubat,"Poison,flying",40,45,35,55,False,142,Glacia Ice,29,Mossdeep City,,In-Battle,2024-01-24 03:49:22
+417,92,Gastly,"ghost,Poison",30,35,30,80,False,130,Karen Dark,22,Blackthorn City,130,Gyarados,"Water,Flying",95,125,79,81,False,108,Steven Stone,25,Mossdeep City,,In-Battle,2024-01-24 15:57:42
+430,55,Golduck,water,80,82,78,85,False,112,Leaf Green,18,Pallet Town,35,Clefairy,Fairy,70,45,48,35,False,106,Dawn Berlitz,10,Twinleaf Town,,In-Battle,2024-01-24 03:59:26

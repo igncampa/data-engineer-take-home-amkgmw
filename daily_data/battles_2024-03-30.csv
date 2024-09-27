@@ -1,0 +1,10 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+4,151,Mew,Psychic,100,100,100,100,True,113,Wallace Juan,24,Sootopolis City,108,Lickitung,Normal,90,55,75,30,False,136,Winona Flying,28,Fortree City,,In-Battle,2024-03-30 12:19:03
+6,116,Horsea,Water,30,40,70,60,False,135,Norman Normal,40,Unknown,92,Gastly,"Ghost,Poison",30,35,30,80,False,126,Chuck Fighting,40,Cianwood City,135,Completed,2024-03-30 08:54:17
+143,8,Wartortle,water,59,63,80,58,False,123,Whitney Normal,16,Goldenrod City,8,Wartortle,water,59,63,80,58,False,113,Wallace Juan,24,Sootopolis City,123,Completed,2024-03-30 00:51:33
+151,130,Gyarados,"Water,flying",95,125,79,81,False,141,Phoebe Ghost,27,Mount Pyre,148,Dragonair,dragon,61,84,65,70,False,129,Bugsy Bug,16,Azalea Town,129,Completed,2024-03-30 08:56:40
+298,110,Weezing,Poison,65,90,120,60,False,128,Falkner Flying,17,Violet City,127,Pinsir,Bug,65,125,100,85,False,104,Gary Oak,16,Pallet Town,,In-Battle,2024-03-30 22:26:35
+315,141,Kabutops,"Rock,water",60,115,105,80,False,142,Glacia Ice,29,Mossdeep City,28,Sandslash,ground,75,100,110,65,False,125,Pryce Ice,60,Mahogany Town,,In-Battle,2024-03-30 19:39:47
+325,95,Onix,"Rock,ground",35,45,160,70,False,127,Jasmine Steel,19,Olivine City,9,Blastoise,Water,79,83,100,78,False,126,Chuck Fighting,40,Cianwood City,,In-Battle,2024-03-30 10:16:15
+368,72,Tentacool,"Water,Poison",40,40,35,70,False,130,Karen Dark,22,Blackthorn City,112,Rhydon,"ground,Rock",105,130,120,40,False,106,Dawn Berlitz,10,Twinleaf Town,,In-Battle,2024-03-30 13:19:10
+382,69,Bellsprout,"grass,poison",50,75,35,40,False,105,May Maple,13,Petalburg City,101,Electrode,electric,60,50,70,140,False,110,Red Champion,18,Pallet Town,110,Completed,2024-03-30 06:30:46

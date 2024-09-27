@@ -1,0 +1,19 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+45,1,Bulbasaur,"Grass,Poison",45,,49,45,False,116,Lt. Surge Surge,29,Vermilion City,6,Charizard,"fire,flying",78,84,,100,False,121,Janine Poison,15,Fuchsia City,,Planned,2024-01-01 00:06:21
+87,42,Golbat,"Poison,Flying",75,80,70,90,False,113,Wallace Juan,24,Sootopolis City,10,Caterpie,bug,45,30,35,45,False,131,Roxanne Rock,17,Rustboro City,,Planned,2024-01-01 12:05:31
+92,53,Persian,normal,65,70,,115,False,103,Brock Slate,15,Pewter City,30,Nidorina,poison,70,62,67,56,False,132,Brawly Fighting,20,Dewford Town,,Planned,2024-01-01 21:03:44
+96,60,Poliwag,Water,40,50,40,90,False,105,May Maple,13,Petalburg City,14,Kakuna,"bug,Poison",,,50,35,False,122,Clair Dragon,21,Blackthorn City,,Planned,2024-01-01 17:15:21
+107,86,Seel,water,65,45,55,45,False,137,Tate Psychic,12,Mossdeep City,96,Drowzee,psychic,60,48,45,42,False,124,Morty Ghost,25,Ecruteak City,,Planned,2024-01-01 06:37:17
+163,131,Lapras,"water,ice",130,85,80,60,False,106,Dawn Berlitz,10,Twinleaf Town,42,Golbat,"poison,Flying",75,80,,90,False,107,Cynthia Shirona,28,Snowpoint City,,Planned,2024-01-01 21:24:08
+212,146,Moltres,"Fire,flying",90,,,90,True,130,Karen Dark,22,Blackthorn City,101,Electrode,electric,,50,70,140,False,134,Flannery Fire,23,Lavaridge Town,,Planned,2024-01-01 02:21:33
+221,28,Sandslash,ground,75,100,110,65,False,103,Brock Slate,15,Pewter City,89,Muk,poison,,,75,50,False,142,Glacia Ice,29,Mossdeep City,,Planned,2024-01-01 10:21:05
+251,146,Moltres,"fire,flying",,100,90,,True,142,Glacia Ice,29,Mossdeep City,24,Arbok,poison,60,,,80,False,115,Giovanni Rocket,35,Viridian City,,Planned,2024-01-01 14:42:33
+279,27,Sandshrew,ground,50,75,,40,False,146,Aaron Bug,19,Sandgem Town,145,Zapdos,"electric,Flying",90,,,100,True,129,Bugsy Bug,16,Azalea Town,,Planned,2024-01-01 15:40:36
+305,91,Cloyster,"Water,Ice",50,95,180,70,False,112,Leaf Green,18,Pallet Town,100,Voltorb,Electric,40,30,50,100,False,113,Wallace Juan,24,Sootopolis City,,Planned,2024-01-01 11:20:27
+322,148,Dragonair,Dragon,61,84,65,70,False,123,Whitney Normal,16,Goldenrod City,138,Omanyte,"Rock,water",35,40,100,35,False,104,Gary Oak,16,Pallet Town,,Planned,2024-01-01 09:51:14
+334,150,Mewtwo,psychic,106,,,130,True,122,Clair Dragon,21,Blackthorn City,106,Hitmonlee,fighting,50,120,53,87,False,117,Erika Celadon,22,Celadon City,,Planned,2024-01-01 07:24:14
+362,54,Psyduck,water,,52,48,55,False,144,Wallace Milotic,33,Sootopolis City,70,Weepinbell,"Grass,Poison",65,90,50,55,False,147,Bertha Ground,60,Shaymin Village,,Planned,2024-01-01 10:59:34
+377,141,Kabutops,"Rock,water",60,115,105,80,False,131,Roxanne Rock,17,Rustboro City,103,Exeggutor,"grass,psychic",95,95,,55,False,108,Steven Stone,25,Mossdeep City,,Planned,2024-01-01 09:21:34
+424,56,Mankey,Fighting,40,80,35,70,False,118,Sabrina Psychic,20,Saffron City,50,Diglett,Ground,,55,25,95,False,132,Brawly Fighting,20,Dewford Town,,Planned,2024-01-01 00:01:56
+454,142,Aerodactyl,"rock,Flying",80,105,65,,False,124,Morty Ghost,25,Ecruteak City,29,Nidoran♀,Poison,55,47,52,41,False,139,Juan Water,32,Sootopolis City,,Planned,2024-01-01 22:33:57
+471,87,Dewgong,"Water,Ice",90,70,,70,False,127,Jasmine Steel,19,Olivine City,51,Dugtrio,ground,35,80,50,120,False,124,Morty Ghost,25,Ecruteak City,,Planned,2024-01-01 04:29:29

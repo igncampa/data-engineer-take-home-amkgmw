@@ -1,0 +1,13 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+66,9,Blastoise,water,79,83,100,78,False,148,Flint Fire,39,Sunnyshore City,9,Blastoise,water,79,83,100,78,False,122,Clair Dragon,21,Blackthorn City,,In-Battle,2024-05-28 03:14:47
+77,131,Lapras,"Water,Ice",130,85,80,60,False,142,Glacia Ice,29,Mossdeep City,146,Moltres,"fire,flying",90,100,90,90,True,101,Ash Ketchum,16,Pallet Town,,In-Battle,2024-05-28 06:21:15
+290,147,Dratini,dragon,41,64,45,50,False,145,Steven Champion,35,Mossdeep City,101,Electrode,Electric,60,50,70,140,False,139,Juan Water,32,Sootopolis City,139,Completed,2024-05-28 08:14:55
+304,47,Parasect,"bug,grass",60,95,80,30,False,104,Gary Oak,16,Pallet Town,31,Nidoqueen,"poison,Ground",90,92,87,76,False,107,Cynthia Shirona,28,Snowpoint City,107,Completed,2024-05-28 17:46:51
+321,27,Sandshrew,ground,50,75,85,40,False,101,Ash Ketchum,16,Pallet Town,5,Charmeleon,Fire,58,64,58,80,False,120,Koga Poison,30,Unknown,101,Completed,2024-05-28 08:04:02
+371,66,Machop,Fighting,70,80,50,35,False,118,Sabrina Psychic,20,Saffron City,23,Ekans,Poison,35,60,44,55,False,104,Gary Oak,16,Pallet Town,104,Completed,2024-05-28 13:16:18
+372,2,Ivysaur,"grass,Poison",60,62,63,60,False,147,Bertha Ground,60,Shaymin Village,92,Gastly,"Ghost,poison",30,35,30,80,False,123,Whitney Normal,16,Goldenrod City,,In-Battle,2024-05-28 21:23:03
+415,2,Ivysaur,"grass,poison",60,62,63,60,False,143,Drake Dragon,45,Slateport City,11,Metapod,Bug,50,20,55,30,False,116,Lt. Surge Surge,29,Vermilion City,116,Completed,2024-05-28 00:00:46
+425,4,Charmander,Fire,39,52,43,65,False,125,Pryce Ice,60,Mahogany Town,88,Grimer,poison,80,80,50,25,False,136,Winona Flying,28,Fortree City,125,Completed,2024-05-28 20:24:59
+437,134,Vaporeon,water,130,65,60,65,False,104,Gary Oak,16,Pallet Town,145,Zapdos,"electric,Flying",90,90,85,100,True,150,Cynthia Champion,30,Snowpoint City,150,Completed,2024-05-28 16:34:41
+472,142,Aerodactyl,"rock,flying",80,105,65,130,False,150,Cynthia Champion,30,Snowpoint City,146,Moltres,"Fire,flying",90,100,90,90,True,106,Dawn Berlitz,10,Twinleaf Town,106,Completed,2024-05-28 14:42:29
+493,140,Kabuto,"Rock,Water",30,80,90,55,False,110,Red Champion,18,Pallet Town,50,Diglett,Ground,10,55,25,95,False,104,Gary Oak,16,Pallet Town,110,Completed,2024-05-28 06:53:12

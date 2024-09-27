@@ -1,0 +1,4 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+397,88,Grimer,poison,80,80,50,25,False,106,Dawn Berlitz,10,Twinleaf Town,54,Psyduck,Water,50,52,48,55,False,126,Chuck Fighting,40,Cianwood City,,In-Battle,2024-03-12 22:40:37
+485,102,Exeggcute,"Grass,psychic",60,40,80,40,False,110,Red Champion,18,Pallet Town,4,Charmander,fire,39,52,43,65,False,107,Cynthia Shirona,28,Snowpoint City,,In-Battle,2024-03-12 06:18:10
+397,88,Grimer,poison,80,80,50,25,False,106,Dawn Berlitz,10,Twinleaf Town,54,Psyduck,Water,50,52,48,55,False,126,Chuck Fighting,40,Cianwood City,,In-Battle,2024-03-12 22:40:37

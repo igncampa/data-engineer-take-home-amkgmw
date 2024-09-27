@@ -1,0 +1,7 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+42,34,Nidoking,"poison,ground",81,102,77,85,False,150,Cynthia Champion,30,Snowpoint City,137,Porygon,Normal,65,60,70,40,False,124,Morty Ghost,25,Ecruteak City,,In-Battle,2024-03-22 05:37:50
+92,53,Persian,normal,65,70,60,115,False,103,Brock Slate,15,Pewter City,30,Nidorina,poison,70,62,67,56,False,132,Brawly Fighting,20,Dewford Town,103,Completed,2024-03-22 22:28:26
+134,74,Geodude,"Rock,ground",40,80,100,20,False,116,Lt. Surge Surge,29,Vermilion City,50,Diglett,Ground,10,55,25,95,False,125,Pryce Ice,60,Mahogany Town,,In-Battle,2024-03-22 00:49:18
+268,40,Wigglytuff,"normal,Fairy",140,70,45,45,False,131,Roxanne Rock,17,Rustboro City,76,Golem,"rock,ground",80,120,130,45,False,133,Wattson Electric,35,Mauville City,,In-Battle,2024-03-22 11:28:08
+301,59,Arcanine,Fire,90,110,80,95,False,130,Karen Dark,22,Blackthorn City,67,Machoke,fighting,80,100,70,45,False,146,Aaron Bug,19,Sandgem Town,146,Completed,2024-03-22 03:50:41
+435,23,Ekans,Poison,35,60,44,55,False,131,Roxanne Rock,17,Rustboro City,9,Blastoise,Water,79,83,100,78,False,125,Pryce Ice,60,Mahogany Town,,In-Battle,2024-03-22 02:32:45

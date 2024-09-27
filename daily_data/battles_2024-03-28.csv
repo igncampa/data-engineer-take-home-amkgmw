@@ -1,0 +1,10 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+170,45,Vileplume,"grass,Poison",75,80,85,50,False,110,Red Champion,18,Pallet Town,76,Golem,"Rock,ground",80,120,130,45,False,102,Misty Waterflower,12,Cerulean City,110,Completed,2024-03-28 21:54:27
+175,17,Pidgeotto,"normal,flying",63,60,55,71,False,118,Sabrina Psychic,20,Saffron City,4,Charmander,fire,39,52,43,65,False,116,Lt. Surge Surge,29,Vermilion City,,In-Battle,2024-03-28 06:24:13
+186,74,Geodude,"Rock,ground",40,80,100,20,False,144,Wallace Milotic,33,Sootopolis City,56,Mankey,fighting,40,80,35,70,False,142,Glacia Ice,29,Mossdeep City,144,Completed,2024-03-28 15:05:00
+222,74,Geodude,"rock,Ground",40,80,100,20,False,121,Janine Poison,15,Fuchsia City,37,Vulpix,fire,38,41,40,65,False,102,Misty Waterflower,12,Cerulean City,102,Completed,2024-03-28 16:45:39
+241,20,Raticate,Normal,55,81,60,97,False,139,Juan Water,32,Sootopolis City,26,Raichu,Electric,60,90,55,110,False,107,Cynthia Shirona,28,Snowpoint City,107,Completed,2024-03-28 07:38:42
+344,56,Mankey,fighting,40,80,35,70,False,104,Gary Oak,16,Pallet Town,150,Mewtwo,Psychic,106,110,90,130,True,122,Clair Dragon,21,Blackthorn City,,In-Battle,2024-03-28 12:41:35
+438,27,Sandshrew,Ground,50,75,85,40,False,125,Pryce Ice,60,Mahogany Town,72,Tentacool,"Water,Poison",40,40,35,70,False,117,Erika Celadon,22,Celadon City,117,Completed,2024-03-28 23:44:52
+449,10,Caterpie,bug,45,30,35,45,False,106,Dawn Berlitz,10,Twinleaf Town,22,Fearow,"normal,Flying",65,90,65,100,False,137,Tate Psychic,12,Mossdeep City,,In-Battle,2024-03-28 03:34:22
+499,69,Bellsprout,"grass,Poison",50,75,35,40,False,144,Wallace Milotic,33,Sootopolis City,36,Clefable,Fairy,95,70,73,60,False,127,Jasmine Steel,19,Olivine City,144,Completed,2024-03-28 16:42:31

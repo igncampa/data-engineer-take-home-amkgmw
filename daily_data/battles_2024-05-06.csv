@@ -1,0 +1,15 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+10,88,Grimer,poison,80,80,50,25,False,120,Koga Poison,30,Unknown,112,Rhydon,"ground,Rock",105,130,120,40,False,128,Falkner Flying,17,Violet City,,In-Battle,2024-05-06 21:02:53
+110,122,Mr. Mime,"Psychic,Fairy",40,45,65,90,False,106,Dawn Berlitz,10,Twinleaf Town,125,Electabuzz,electric,65,83,57,105,False,109,Lance Dragonite,21,Blackthorn City,109,Completed,2024-05-06 10:56:29
+115,53,Persian,normal,65,70,60,115,False,147,Bertha Ground,60,Shaymin Village,148,Dragonair,Dragon,61,84,65,70,False,112,Leaf Green,18,Pallet Town,147,Completed,2024-05-06 03:27:32
+172,20,Raticate,Normal,55,81,60,97,False,111,Blue Oak,18,Pallet Town,126,Magmar,Fire,65,95,57,93,False,109,Lance Dragonite,21,Blackthorn City,,In-Battle,2024-05-06 03:01:08
+214,64,Kadabra,psychic,40,35,30,105,False,117,Erika Celadon,22,Celadon City,86,Seel,Water,65,45,55,45,False,149,Lucian Psychic,28,Sunyshore City,149,Completed,2024-05-06 18:42:37
+231,58,Growlithe,Fire,55,70,45,60,False,108,Steven Stone,25,Mossdeep City,107,Hitmonchan,Fighting,50,105,79,76,False,136,Winona Flying,28,Fortree City,,In-Battle,2024-05-06 04:50:40
+248,108,Lickitung,Normal,90,55,75,30,False,126,Chuck Fighting,40,Cianwood City,119,Seaking,Water,80,92,65,68,False,128,Falkner Flying,17,Violet City,128,Completed,2024-05-06 10:01:47
+277,81,Magnemite,"Electric,Steel",25,35,70,45,False,126,Chuck Fighting,40,Cianwood City,43,Oddish,"grass,poison",45,50,55,30,False,117,Erika Celadon,22,Celadon City,,In-Battle,2024-05-06 07:38:46
+344,56,Mankey,fighting,40,80,35,70,False,104,Gary Oak,16,Pallet Town,150,Mewtwo,Psychic,106,110,90,130,True,122,Clair Dragon,21,Blackthorn City,122,Completed,2024-05-06 11:37:00
+358,40,Wigglytuff,"Normal,fairy",140,70,45,45,False,134,Flannery Fire,23,Lavaridge Town,62,Poliwrath,"Water,fighting",90,95,95,70,False,104,Gary Oak,16,Pallet Town,,In-Battle,2024-05-06 22:07:43
+397,88,Grimer,poison,80,80,50,25,False,106,Dawn Berlitz,10,Twinleaf Town,54,Psyduck,Water,50,52,48,55,False,126,Chuck Fighting,40,Cianwood City,126,Completed,2024-05-06 04:37:40
+413,133,Eevee,Normal,55,55,50,55,False,109,Lance Dragonite,21,Blackthorn City,84,Doduo,"normal,Flying",35,85,45,75,False,134,Flannery Fire,23,Lavaridge Town,,In-Battle,2024-05-06 07:20:59
+450,71,Victreebel,"grass,poison",80,105,65,70,False,103,Brock Slate,15,Pewter City,44,Gloom,"Grass,poison",60,65,70,40,False,150,Cynthia Champion,30,Snowpoint City,150,Completed,2024-05-06 23:43:23
+487,105,Marowak,ground,60,80,110,45,False,102,Misty Waterflower,12,Cerulean City,87,Dewgong,"Water,ice",90,70,80,70,False,135,Norman Normal,40,Unknown,,In-Battle,2024-05-06 09:51:40

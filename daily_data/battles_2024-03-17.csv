@@ -1,0 +1,8 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+144,44,Gloom,"grass,poison",60,65,70,40,False,127,Jasmine Steel,19,Olivine City,23,Ekans,Poison,35,60,44,55,False,110,Red Champion,18,Pallet Town,,In-Battle,2024-03-17 06:18:26
+209,27,Sandshrew,ground,50,75,85,40,False,148,Flint Fire,39,Sunnyshore City,55,Golduck,water,80,82,78,85,False,111,Blue Oak,18,Pallet Town,148,Completed,2024-03-17 11:09:58
+216,36,Clefable,fairy,95,70,73,60,False,122,Clair Dragon,21,Blackthorn City,150,Mewtwo,Psychic,106,110,90,130,True,132,Brawly Fighting,20,Dewford Town,,Cancelled,2024-03-17 11:11:16
+234,115,Kangaskhan,Normal,105,95,80,90,False,109,Lance Dragonite,21,Blackthorn City,131,Lapras,"Water,ice",130,85,80,60,False,116,Lt. Surge Surge,29,Vermilion City,116,Completed,2024-03-17 04:01:51
+381,71,Victreebel,"grass,poison",80,105,65,70,False,128,Falkner Flying,17,Violet City,65,Alakazam,psychic,55,50,45,120,False,122,Clair Dragon,21,Blackthorn City,,In-Battle,2024-03-17 15:23:28
+395,25,Pikachu,electric,35,55,40,90,False,112,Leaf Green,18,Pallet Town,147,Dratini,Dragon,41,64,45,50,False,140,Sidney Dark,24,Lilycove City,,In-Battle,2024-03-17 00:18:03
+395,25,Pikachu,electric,35,55,40,90,False,112,Leaf Green,18,Pallet Town,147,Dratini,Dragon,41,64,45,50,False,140,Sidney Dark,24,Lilycove City,112,Completed,2024-03-17 03:17:27

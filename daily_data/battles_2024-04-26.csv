@@ -1,0 +1,6 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+120,28,Sandslash,Ground,75,100,110,65,False,102,Misty Waterflower,12,Cerulean City,75,Graveler,"rock,ground",55,95,115,35,False,121,Janine Poison,15,Fuchsia City,102,Completed,2024-04-26 00:35:58
+124,59,Arcanine,fire,90,110,80,95,False,146,Aaron Bug,19,Sandgem Town,39,Jigglypuff,"Normal,fairy",115,45,20,20,False,120,Koga Poison,30,Unknown,146,Completed,2024-04-26 19:38:40
+171,38,Ninetales,Fire,73,76,75,100,False,125,Pryce Ice,60,Mahogany Town,28,Sandslash,Ground,75,100,110,65,False,121,Janine Poison,15,Fuchsia City,,In-Battle,2024-04-26 19:43:46
+179,139,Omastar,"Rock,water",70,60,125,55,False,112,Leaf Green,18,Pallet Town,77,Ponyta,fire,50,85,55,90,False,122,Clair Dragon,21,Blackthorn City,112,Completed,2024-04-26 23:41:33
+379,119,Seaking,water,80,92,65,68,False,104,Gary Oak,16,Pallet Town,128,Tauros,Normal,75,100,95,110,False,103,Brock Slate,15,Pewter City,,In-Battle,2024-04-26 19:32:27

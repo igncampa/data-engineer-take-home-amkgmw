@@ -1,0 +1,17 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+38,22,Fearow,"Normal,flying",65,90,65,100,False,117,Erika Celadon,22,Celadon City,147,Dratini,Dragon,41,64,45,50,False,113,Wallace Juan,24,Sootopolis City,113,Completed,2024-05-29 09:19:49
+77,131,Lapras,"Water,Ice",130,85,80,60,False,142,Glacia Ice,29,Mossdeep City,146,Moltres,"fire,flying",90,100,90,90,True,101,Ash Ketchum,16,Pallet Town,101,Completed,2024-05-29 17:38:48
+181,93,Haunter,"ghost,Poison",45,50,45,95,False,103,Brock Slate,15,Pewter City,39,Jigglypuff,"normal,fairy",115,45,20,20,False,105,May Maple,13,Petalburg City,105,Completed,2024-05-29 19:43:00
+195,18,Pidgeot,"Normal,Flying",83,80,75,101,False,132,Brawly Fighting,20,Dewford Town,78,Rapidash,fire,65,100,70,105,False,114,N Natural,24,Unknown,114,Completed,2024-05-29 20:59:38
+210,49,Venomoth,"bug,poison",70,65,60,90,False,112,Leaf Green,18,Pallet Town,29,Nidoran♀,poison,55,47,52,41,False,121,Janine Poison,15,Fuchsia City,,In-Battle,2024-05-29 20:25:57
+224,101,Electrode,Electric,60,50,70,140,False,137,Tate Psychic,12,Mossdeep City,136,Flareon,Fire,65,130,60,65,False,139,Juan Water,32,Sootopolis City,139,Completed,2024-05-29 02:07:31
+228,84,Doduo,"Normal,flying",35,85,45,75,False,108,Steven Stone,25,Mossdeep City,104,Cubone,Ground,50,50,95,35,False,127,Jasmine Steel,19,Olivine City,,In-Battle,2024-05-29 07:53:20
+230,137,Porygon,normal,65,60,70,40,False,104,Gary Oak,16,Pallet Town,16,Pidgey,"normal,Flying",40,45,40,56,False,117,Erika Celadon,22,Celadon City,104,Completed,2024-05-29 06:42:21
+262,140,Kabuto,"rock,water",30,80,90,55,False,104,Gary Oak,16,Pallet Town,127,Pinsir,Bug,65,125,100,85,False,148,Flint Fire,39,Sunnyshore City,,In-Battle,2024-05-29 17:42:33
+267,10,Caterpie,bug,45,30,35,45,False,140,Sidney Dark,24,Lilycove City,6,Charizard,"fire,Flying",78,84,78,100,False,104,Gary Oak,16,Pallet Town,104,Completed,2024-05-29 00:30:55
+289,100,Voltorb,Electric,40,30,50,100,False,131,Roxanne Rock,17,Rustboro City,80,Slowbro,"water,Psychic",95,75,110,30,False,119,Blaine Fire,50,Cinnabar Island,,In-Battle,2024-05-29 12:54:39
+311,100,Voltorb,electric,40,30,50,100,False,134,Flannery Fire,23,Lavaridge Town,91,Cloyster,"water,ice",50,95,180,70,False,123,Whitney Normal,16,Goldenrod City,134,Completed,2024-05-29 04:03:18
+316,127,Pinsir,Bug,65,125,100,85,False,110,Red Champion,18,Pallet Town,65,Alakazam,Psychic,55,50,45,120,False,125,Pryce Ice,60,Mahogany Town,125,Completed,2024-05-29 07:45:23
+322,148,Dragonair,Dragon,61,84,65,70,False,123,Whitney Normal,16,Goldenrod City,138,Omanyte,"Rock,water",35,40,100,35,False,104,Gary Oak,16,Pallet Town,123,Completed,2024-05-29 19:50:26
+323,73,Tentacruel,"water,poison",80,70,65,100,False,132,Brawly Fighting,20,Dewford Town,38,Ninetales,fire,73,76,75,100,False,142,Glacia Ice,29,Mossdeep City,,In-Battle,2024-05-29 15:59:24
+494,96,Drowzee,Psychic,60,48,45,42,False,142,Glacia Ice,29,Mossdeep City,117,Seadra,water,55,65,95,85,False,129,Bugsy Bug,16,Azalea Town,129,Completed,2024-05-29 21:19:17

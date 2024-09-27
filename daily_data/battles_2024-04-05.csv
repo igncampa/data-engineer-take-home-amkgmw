@@ -1,0 +1,10 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+44,96,Drowzee,Psychic,60,48,45,42,False,149,Lucian Psychic,28,Sunyshore City,66,Machop,Fighting,70,80,50,35,False,148,Flint Fire,39,Sunnyshore City,148,Completed,2024-04-05 21:37:00
+87,42,Golbat,"Poison,Flying",75,80,70,90,False,113,Wallace Juan,24,Sootopolis City,10,Caterpie,bug,45,30,35,45,False,131,Roxanne Rock,17,Rustboro City,131,Completed,2024-04-05 02:06:56
+147,52,Meowth,normal,40,45,35,90,False,126,Chuck Fighting,40,Cianwood City,145,Zapdos,"Electric,Flying",90,90,85,100,True,129,Bugsy Bug,16,Azalea Town,,In-Battle,2024-04-05 04:33:26
+180,148,Dragonair,Dragon,61,84,65,70,False,141,Phoebe Ghost,27,Mount Pyre,85,Dodrio,"normal,Flying",60,110,70,100,False,143,Drake Dragon,45,Slateport City,,In-Battle,2024-04-05 12:34:57
+246,142,Aerodactyl,"rock,Flying",80,105,65,130,False,103,Brock Slate,15,Pewter City,35,Clefairy,Fairy,70,45,48,35,False,137,Tate Psychic,12,Mossdeep City,,In-Battle,2024-04-05 20:58:29
+253,40,Wigglytuff,"normal,fairy",140,70,45,45,False,119,Blaine Fire,50,Cinnabar Island,149,Dragonite,"dragon,Flying",91,134,95,80,False,122,Clair Dragon,21,Blackthorn City,,In-Battle,2024-04-05 13:20:56
+284,100,Voltorb,electric,40,30,50,100,False,117,Erika Celadon,22,Celadon City,43,Oddish,"grass,Poison",45,50,55,30,False,136,Winona Flying,28,Fortree City,,In-Battle,2024-04-05 10:43:01
+327,70,Weepinbell,"grass,poison",65,90,50,55,False,140,Sidney Dark,24,Lilycove City,32,Nidoran♂,Poison,46,57,40,50,False,117,Erika Celadon,22,Celadon City,140,Completed,2024-04-05 10:28:48
+360,38,Ninetales,Fire,73,76,75,100,False,116,Lt. Surge Surge,29,Vermilion City,105,Marowak,ground,60,80,110,45,False,143,Drake Dragon,45,Slateport City,,In-Battle,2024-04-05 19:13:09

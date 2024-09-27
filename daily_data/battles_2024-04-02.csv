@@ -1,0 +1,8 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+226,20,Raticate,Normal,55,81,60,97,False,107,Cynthia Shirona,28,Snowpoint City,86,Seel,water,65,45,55,45,False,115,Giovanni Rocket,35,Viridian City,107,Completed,2024-04-02 12:18:59
+233,148,Dragonair,Dragon,61,84,65,70,False,111,Blue Oak,18,Pallet Town,142,Aerodactyl,"Rock,flying",80,105,65,130,False,131,Roxanne Rock,17,Rustboro City,,In-Battle,2024-04-02 18:51:38
+366,73,Tentacruel,"Water,Poison",80,70,65,100,False,142,Glacia Ice,29,Mossdeep City,34,Nidoking,"Poison,ground",81,102,77,85,False,130,Karen Dark,22,Blackthorn City,142,Completed,2024-04-02 10:09:20
+406,121,Starmie,"Water,Psychic",60,75,85,115,False,143,Drake Dragon,45,Slateport City,75,Graveler,"Rock,Ground",55,95,115,35,False,139,Juan Water,32,Sootopolis City,143,Completed,2024-04-02 21:43:49
+446,20,Raticate,Normal,55,81,60,97,False,125,Pryce Ice,60,Mahogany Town,144,Articuno,"ice,Flying",90,85,100,85,True,140,Sidney Dark,24,Lilycove City,,In-Battle,2024-04-02 09:19:20
+455,54,Psyduck,Water,50,52,48,55,False,148,Flint Fire,39,Sunnyshore City,39,Jigglypuff,"Normal,Fairy",115,45,20,20,False,110,Red Champion,18,Pallet Town,148,Completed,2024-04-02 14:44:12
+478,128,Tauros,Normal,75,100,95,110,False,137,Tate Psychic,12,Mossdeep City,52,Meowth,normal,40,45,35,90,False,135,Norman Normal,40,Unknown,,In-Battle,2024-04-02 11:57:09

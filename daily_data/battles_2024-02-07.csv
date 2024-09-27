@@ -1,0 +1,4 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+201,107,Hitmonchan,fighting,50,105,79,76,False,128,Falkner Flying,17,Violet City,92,Gastly,"ghost,poison",30,35,30,80,False,126,Chuck Fighting,40,Cianwood City,,In-Battle,2024-02-07 13:41:49
+271,88,Grimer,poison,80,80,50,25,False,117,Erika Celadon,22,Celadon City,148,Dragonair,dragon,61,84,65,70,False,136,Winona Flying,28,Fortree City,,In-Battle,2024-02-07 01:02:08
+495,120,Staryu,Water,30,45,55,85,False,107,Cynthia Shirona,28,Snowpoint City,148,Dragonair,dragon,61,84,65,70,False,141,Phoebe Ghost,27,Mount Pyre,,In-Battle,2024-02-07 12:34:08

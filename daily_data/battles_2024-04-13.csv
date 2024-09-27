@@ -1,0 +1,8 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+111,105,Marowak,Ground,60,80,110,45,False,117,Erika Celadon,22,Celadon City,32,Nidoran♂,Poison,46,57,40,50,False,110,Red Champion,18,Pallet Town,110,Completed,2024-04-13 08:28:35
+223,86,Seel,Water,65,45,55,45,False,143,Drake Dragon,45,Slateport City,87,Dewgong,"water,Ice",90,70,80,70,False,125,Pryce Ice,60,Mahogany Town,,In-Battle,2024-04-13 13:03:57
+245,98,Krabby,water,30,105,90,50,False,138,Liza Psychic,12,Mossdeep City,132,Ditto,normal,48,48,48,48,False,140,Sidney Dark,24,Lilycove City,,In-Battle,2024-04-13 17:15:43
+254,51,Dugtrio,Ground,35,80,50,120,False,105,May Maple,13,Petalburg City,15,Beedrill,"Bug,Poison",65,90,40,75,False,146,Aaron Bug,19,Sandgem Town,,In-Battle,2024-04-13 11:29:52
+300,77,Ponyta,fire,50,85,55,90,False,116,Lt. Surge Surge,29,Vermilion City,14,Kakuna,"bug,Poison",45,25,50,35,False,129,Bugsy Bug,16,Azalea Town,,In-Battle,2024-04-13 18:36:51
+346,82,Magneton,"electric,Steel",50,60,95,70,False,147,Bertha Ground,60,Shaymin Village,106,Hitmonlee,Fighting,50,120,53,87,False,124,Morty Ghost,25,Ecruteak City,147,Completed,2024-04-13 02:11:40
+422,131,Lapras,"Water,ice",130,85,80,60,False,142,Glacia Ice,29,Mossdeep City,96,Drowzee,Psychic,60,48,45,42,False,104,Gary Oak,16,Pallet Town,104,Completed,2024-04-13 14:53:48

@@ -1,0 +1,5 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+27,4,Charmander,Fire,39,52,43,65,False,138,Liza Psychic,12,Mossdeep City,130,Gyarados,"water,flying",95,125,79,81,False,120,Koga Poison,30,Unknown,138,Completed,2024-03-29 12:59:07
+124,59,Arcanine,fire,90,110,80,95,False,146,Aaron Bug,19,Sandgem Town,39,Jigglypuff,"Normal,fairy",115,45,20,20,False,120,Koga Poison,30,Unknown,,In-Battle,2024-03-29 10:08:17
+199,11,Metapod,bug,50,20,55,30,False,109,Lance Dragonite,21,Blackthorn City,82,Magneton,"Electric,steel",50,60,95,70,False,138,Liza Psychic,12,Mossdeep City,138,Completed,2024-03-29 07:19:08
+293,136,Flareon,fire,65,130,60,65,False,144,Wallace Milotic,33,Sootopolis City,143,Snorlax,normal,160,110,65,30,False,120,Koga Poison,30,Unknown,,In-Battle,2024-03-29 10:51:40

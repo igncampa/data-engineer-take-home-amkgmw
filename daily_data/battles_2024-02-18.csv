@@ -1,0 +1,5 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+51,96,Drowzee,Psychic,60,48,45,42,False,150,Cynthia Champion,30,Snowpoint City,143,Snorlax,normal,160,110,65,30,False,111,Blue Oak,18,Pallet Town,,In-Battle,2024-02-18 12:55:13
+207,47,Parasect,"bug,Grass",60,95,80,30,False,137,Tate Psychic,12,Mossdeep City,29,Nidoran♀,poison,55,47,52,41,False,125,Pryce Ice,60,Mahogany Town,,In-Battle,2024-02-18 19:27:44
+304,47,Parasect,"bug,grass",60,95,80,30,False,104,Gary Oak,16,Pallet Town,31,Nidoqueen,"poison,Ground",90,92,87,76,False,107,Cynthia Shirona,28,Snowpoint City,,In-Battle,2024-02-18 11:59:31
+398,65,Alakazam,psychic,55,50,45,120,False,122,Clair Dragon,21,Blackthorn City,76,Golem,"Rock,ground",80,120,130,45,False,135,Norman Normal,40,Unknown,,In-Battle,2024-02-18 08:44:05

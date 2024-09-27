@@ -1,0 +1,5 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+78,32,Nidoran♂,Poison,46,57,40,50,False,147,Bertha Ground,60,Shaymin Village,137,Porygon,Normal,65,60,70,40,False,135,Norman Normal,40,Unknown,,In-Battle,2024-04-03 19:28:40
+87,42,Golbat,"Poison,Flying",75,80,70,90,False,113,Wallace Juan,24,Sootopolis City,10,Caterpie,bug,45,30,35,45,False,131,Roxanne Rock,17,Rustboro City,,In-Battle,2024-04-03 04:51:30
+276,143,Snorlax,normal,160,110,65,30,False,119,Blaine Fire,50,Cinnabar Island,24,Arbok,poison,60,85,69,80,False,115,Giovanni Rocket,35,Viridian City,,In-Battle,2024-04-03 19:11:29
+370,117,Seadra,Water,55,65,95,85,False,148,Flint Fire,39,Sunnyshore City,125,Electabuzz,electric,65,83,57,105,False,150,Cynthia Champion,30,Snowpoint City,,In-Battle,2024-04-03 12:40:05

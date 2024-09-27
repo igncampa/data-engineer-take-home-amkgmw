@@ -1,0 +1,9 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+35,100,Voltorb,Electric,40,30,50,100,False,132,Brawly Fighting,20,Dewford Town,6,Charizard,"fire,flying",78,84,78,100,False,103,Brock Slate,15,Pewter City,,In-Battle,2024-05-01 21:49:21
+102,14,Kakuna,"bug,Poison",45,25,50,35,False,124,Morty Ghost,25,Ecruteak City,34,Nidoking,"Poison,ground",81,102,77,85,False,121,Janine Poison,15,Fuchsia City,,In-Battle,2024-05-01 20:32:40
+117,65,Alakazam,psychic,55,50,45,120,False,106,Dawn Berlitz,10,Twinleaf Town,54,Psyduck,Water,50,52,48,55,False,131,Roxanne Rock,17,Rustboro City,106,Completed,2024-05-01 23:35:42
+177,95,Onix,"rock,ground",35,45,160,70,False,131,Roxanne Rock,17,Rustboro City,102,Exeggcute,"grass,psychic",60,40,80,40,False,146,Aaron Bug,19,Sandgem Town,,In-Battle,2024-05-01 00:40:03
+255,79,Slowpoke,"Water,psychic",90,65,65,15,False,120,Koga Poison,30,Unknown,54,Psyduck,water,50,52,48,55,False,109,Lance Dragonite,21,Blackthorn City,109,Completed,2024-05-01 13:41:49
+272,80,Slowbro,"Water,psychic",95,75,110,30,False,149,Lucian Psychic,28,Sunyshore City,79,Slowpoke,"Water,Psychic",90,65,65,15,False,120,Koga Poison,30,Unknown,,In-Battle,2024-05-01 09:47:54
+367,111,Rhyhorn,"Ground,rock",80,85,95,25,False,130,Karen Dark,22,Blackthorn City,108,Lickitung,Normal,90,55,75,30,False,148,Flint Fire,39,Sunnyshore City,,In-Battle,2024-05-01 06:11:10
+450,71,Victreebel,"grass,poison",80,105,65,70,False,103,Brock Slate,15,Pewter City,44,Gloom,"Grass,poison",60,65,70,40,False,150,Cynthia Champion,30,Snowpoint City,,In-Battle,2024-05-01 20:38:29

@@ -1,0 +1,6 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+31,116,Horsea,Water,30,40,70,60,False,119,Blaine Fire,50,Cinnabar Island,6,Charizard,"fire,Flying",78,84,78,100,False,107,Cynthia Shirona,28,Snowpoint City,,In-Battle,2024-02-21 21:54:15
+108,83,Farfetch'd,"normal,Flying",52,65,55,60,False,139,Juan Water,32,Sootopolis City,11,Metapod,bug,50,20,55,30,False,146,Aaron Bug,19,Sandgem Town,,In-Battle,2024-02-21 00:57:45
+439,144,Articuno,"Ice,flying",90,85,100,85,True,110,Red Champion,18,Pallet Town,14,Kakuna,"bug,poison",45,25,50,35,False,149,Lucian Psychic,28,Sunyshore City,,In-Battle,2024-02-21 20:54:48
+458,126,Magmar,fire,65,95,57,93,False,146,Aaron Bug,19,Sandgem Town,96,Drowzee,Psychic,60,48,45,42,False,129,Bugsy Bug,16,Azalea Town,129,Completed,2024-02-21 19:02:35
+470,109,Koffing,poison,40,65,95,35,False,116,Lt. Surge Surge,29,Vermilion City,110,Weezing,poison,65,90,120,60,False,119,Blaine Fire,50,Cinnabar Island,,In-Battle,2024-02-21 20:42:43

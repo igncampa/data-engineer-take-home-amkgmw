@@ -1,0 +1,5 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+43,89,Muk,Poison,105,105,75,50,False,146,Aaron Bug,19,Sandgem Town,61,Poliwhirl,Water,65,65,65,90,False,123,Whitney Normal,16,Goldenrod City,,In-Battle,2024-03-26 07:30:39
+125,44,Gloom,"Grass,Poison",60,65,70,40,False,116,Lt. Surge Surge,29,Vermilion City,101,Electrode,electric,60,50,70,140,False,108,Steven Stone,25,Mossdeep City,,In-Battle,2024-03-26 06:43:37
+170,45,Vileplume,"grass,Poison",75,80,85,50,False,110,Red Champion,18,Pallet Town,76,Golem,"Rock,ground",80,120,130,45,False,102,Misty Waterflower,12,Cerulean City,,In-Battle,2024-03-26 07:45:33
+355,57,Primeape,Fighting,65,105,60,95,False,119,Blaine Fire,50,Cinnabar Island,4,Charmander,fire,39,52,43,65,False,148,Flint Fire,39,Sunnyshore City,,In-Battle,2024-03-26 23:20:19

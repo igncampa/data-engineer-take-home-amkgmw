@@ -1,0 +1,4 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+45,1,Bulbasaur,"Grass,Poison",45,49,49,45,False,116,Lt. Surge Surge,29,Vermilion City,6,Charizard,"fire,flying",78,84,78,100,False,121,Janine Poison,15,Fuchsia City,,In-Battle,2024-02-08 07:53:34
+61,41,Zubat,"Poison,flying",40,45,35,55,False,140,Sidney Dark,24,Lilycove City,119,Seaking,Water,80,92,65,68,False,126,Chuck Fighting,40,Cianwood City,,In-Battle,2024-02-08 19:46:31
+329,6,Charizard,"fire,Flying",78,84,78,100,False,146,Aaron Bug,19,Sandgem Town,108,Lickitung,normal,90,55,75,30,False,147,Bertha Ground,60,Shaymin Village,,In-Battle,2024-02-08 11:25:30

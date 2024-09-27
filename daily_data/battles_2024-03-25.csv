@@ -1,0 +1,11 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+3,41,Zubat,"Poison,Flying",40,45,35,55,False,101,Ash Ketchum,16,Pallet Town,55,Golduck,Water,80,82,78,85,False,107,Cynthia Shirona,28,Snowpoint City,,In-Battle,2024-03-25 04:24:13
+41,65,Alakazam,psychic,55,50,45,120,False,138,Liza Psychic,12,Mossdeep City,19,Rattata,Normal,30,56,35,72,False,108,Steven Stone,25,Mossdeep City,108,Completed,2024-03-25 00:15:06
+100,101,Electrode,electric,60,50,70,140,False,136,Winona Flying,28,Fortree City,14,Kakuna,"bug,poison",45,25,50,35,False,115,Giovanni Rocket,35,Viridian City,115,Completed,2024-03-25 18:27:30
+366,73,Tentacruel,"Water,Poison",80,70,65,100,False,142,Glacia Ice,29,Mossdeep City,34,Nidoking,"Poison,ground",81,102,77,85,False,130,Karen Dark,22,Blackthorn City,,In-Battle,2024-03-25 09:31:15
+374,32,Nidoran♂,poison,46,57,40,50,False,140,Sidney Dark,24,Lilycove City,30,Nidorina,Poison,70,62,67,56,False,128,Falkner Flying,17,Violet City,,In-Battle,2024-03-25 20:13:10
+410,111,Rhyhorn,"ground,Rock",80,85,95,25,False,118,Sabrina Psychic,20,Saffron City,33,Nidorino,poison,61,72,57,65,False,121,Janine Poison,15,Fuchsia City,,In-Battle,2024-03-25 23:25:10
+427,128,Tauros,Normal,75,100,95,110,False,101,Ash Ketchum,16,Pallet Town,125,Electabuzz,Electric,65,83,57,105,False,109,Lance Dragonite,21,Blackthorn City,,In-Battle,2024-03-25 12:58:57
+462,148,Dragonair,dragon,61,84,65,70,False,111,Blue Oak,18,Pallet Town,61,Poliwhirl,Water,65,65,65,90,False,137,Tate Psychic,12,Mossdeep City,111,Completed,2024-03-25 04:21:09
+499,69,Bellsprout,"grass,Poison",50,75,35,40,False,144,Wallace Milotic,33,Sootopolis City,36,Clefable,Fairy,95,70,73,60,False,127,Jasmine Steel,19,Olivine City,,In-Battle,2024-03-25 09:52:48
+41,65,Alakazam,psychic,55,50,45,120,False,138,Liza Psychic,12,Mossdeep City,19,Rattata,Normal,30,56,35,72,False,108,Steven Stone,25,Mossdeep City,108,Completed,2024-03-25 00:15:06

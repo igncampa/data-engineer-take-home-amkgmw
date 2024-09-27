@@ -1,0 +1,7 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+47,123,Scyther,"Bug,Flying",70,110,80,105,False,102,Misty Waterflower,12,Cerulean City,30,Nidorina,poison,70,62,67,56,False,114,N Natural,24,Unknown,114,Completed,2024-03-03 05:38:19
+86,41,Zubat,"Poison,Flying",40,45,35,55,False,117,Erika Celadon,22,Celadon City,110,Weezing,Poison,65,90,120,60,False,102,Misty Waterflower,12,Cerulean City,,In-Battle,2024-03-03 01:44:52
+121,8,Wartortle,water,59,63,80,58,False,119,Blaine Fire,50,Cinnabar Island,68,Machamp,fighting,90,130,80,55,False,126,Chuck Fighting,40,Cianwood City,,In-Battle,2024-03-03 13:45:51
+373,141,Kabutops,"rock,Water",60,115,105,80,False,130,Karen Dark,22,Blackthorn City,83,Farfetch'd,"Normal,Flying",52,65,55,60,False,136,Winona Flying,28,Fortree City,136,Completed,2024-03-03 04:28:14
+417,92,Gastly,"ghost,Poison",30,35,30,80,False,130,Karen Dark,22,Blackthorn City,130,Gyarados,"Water,Flying",95,125,79,81,False,108,Steven Stone,25,Mossdeep City,130,Completed,2024-03-03 00:33:13
+459,142,Aerodactyl,"rock,Flying",80,105,65,130,False,136,Winona Flying,28,Fortree City,85,Dodrio,"Normal,flying",60,110,70,100,False,149,Lucian Psychic,28,Sunyshore City,,In-Battle,2024-03-03 03:53:27

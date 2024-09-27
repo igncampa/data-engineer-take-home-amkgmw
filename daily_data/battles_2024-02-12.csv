@@ -1,0 +1,6 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+6,116,Horsea,Water,30,40,70,60,False,135,Norman Normal,40,Unknown,92,Gastly,"Ghost,Poison",30,35,30,80,False,126,Chuck Fighting,40,Cianwood City,,In-Battle,2024-02-12 13:38:04
+7,43,Oddish,"grass,Poison",45,50,55,30,False,107,Cynthia Shirona,28,Snowpoint City,18,Pidgeot,"Normal,flying",83,80,75,101,False,145,Steven Champion,35,Mossdeep City,,In-Battle,2024-02-12 12:33:55
+333,148,Dragonair,Dragon,61,84,65,70,False,130,Karen Dark,22,Blackthorn City,139,Omastar,"rock,water",70,60,125,55,False,134,Flannery Fire,23,Lavaridge Town,,In-Battle,2024-02-12 07:07:41
+421,151,Mew,psychic,100,100,100,100,True,119,Blaine Fire,50,Cinnabar Island,9,Blastoise,Water,79,83,100,78,False,142,Glacia Ice,29,Mossdeep City,,In-Battle,2024-02-12 06:31:04
+440,5,Charmeleon,fire,58,64,58,80,False,139,Juan Water,32,Sootopolis City,121,Starmie,"water,psychic",60,75,85,115,False,110,Red Champion,18,Pallet Town,,In-Battle,2024-02-12 17:35:14

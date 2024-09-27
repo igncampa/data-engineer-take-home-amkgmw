@@ -1,0 +1,20 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+28,51,Dugtrio,Ground,35,80,50,120,False,149,Lucian Psychic,28,Sunyshore City,28,Sandslash,ground,75,100,110,65,False,132,Brawly Fighting,20,Dewford Town,,Planned,2024-01-19 04:55:56
+34,4,Charmander,Fire,39,52,43,65,False,133,Wattson Electric,35,Mauville City,60,Poliwag,water,40,50,40,90,False,126,Chuck Fighting,40,Cianwood City,,Planned,2024-01-19 22:44:32
+51,96,Drowzee,Psychic,60,,,42,False,150,Cynthia Champion,30,Snowpoint City,143,Snorlax,normal,160,,65,30,False,111,Blue Oak,18,Pallet Town,,Planned,2024-01-19 18:07:27
+66,9,Blastoise,water,79,83,100,78,False,148,Flint Fire,39,Sunnyshore City,9,Blastoise,water,79,83,100,78,False,122,Clair Dragon,21,Blackthorn City,,Planned,2024-01-19 21:49:32
+124,59,Arcanine,fire,90,110,,95,False,146,Aaron Bug,19,Sandgem Town,39,Jigglypuff,"Normal,fairy",115,45,20,20,False,120,Koga Poison,30,Unknown,,Planned,2024-01-19 02:13:53
+145,121,Starmie,"water,psychic",,75,,115,False,143,Drake Dragon,45,Slateport City,109,Koffing,poison,40,65,95,35,False,127,Jasmine Steel,19,Olivine City,,Planned,2024-01-19 05:08:51
+148,58,Growlithe,Fire,,70,45,60,False,114,N Natural,24,Unknown,135,Jolteon,electric,65,65,60,130,False,105,May Maple,13,Petalburg City,,Planned,2024-01-19 20:02:07
+196,35,Clefairy,Fairy,70,45,48,35,False,139,Juan Water,32,Sootopolis City,129,Magikarp,Water,20,10,,80,False,111,Blue Oak,18,Pallet Town,,Planned,2024-01-19 16:03:22
+270,115,Kangaskhan,Normal,105,95,,90,False,142,Glacia Ice,29,Mossdeep City,25,Pikachu,Electric,35,55,,,False,110,Red Champion,18,Pallet Town,,Planned,2024-01-19 10:48:00
+300,77,Ponyta,fire,50,85,55,90,False,116,Lt. Surge Surge,29,Vermilion City,14,Kakuna,"bug,Poison",45,25,50,,False,129,Bugsy Bug,16,Azalea Town,,Planned,2024-01-19 09:58:12
+352,137,Porygon,normal,,60,70,40,False,110,Red Champion,18,Pallet Town,80,Slowbro,"Water,psychic",,75,110,30,False,104,Gary Oak,16,Pallet Town,,Planned,2024-01-19 20:32:11
+358,40,Wigglytuff,"Normal,fairy",140,70,45,45,False,134,Flannery Fire,23,Lavaridge Town,62,Poliwrath,"Water,fighting",90,95,95,70,False,104,Gary Oak,16,Pallet Town,,Planned,2024-01-19 18:37:38
+361,130,Gyarados,"Water,Flying",95,125,79,81,False,120,Koga Poison,30,Unknown,130,Gyarados,"water,Flying",95,125,79,81,False,104,Gary Oak,16,Pallet Town,,Planned,2024-01-19 01:56:19
+364,48,Venonat,"bug,poison",60,55,50,45,False,108,Steven Stone,25,Mossdeep City,6,Charizard,"fire,flying",78,84,78,100,False,127,Jasmine Steel,19,Olivine City,,Planned,2024-01-19 01:56:50
+395,25,Pikachu,electric,35,,40,90,False,112,Leaf Green,18,Pallet Town,147,Dratini,Dragon,,64,45,50,False,140,Sidney Dark,24,Lilycove City,,Planned,2024-01-19 20:45:47
+445,39,Jigglypuff,"normal,fairy",115,45,20,20,False,123,Whitney Normal,16,Goldenrod City,77,Ponyta,Fire,50,85,55,,False,132,Brawly Fighting,20,Dewford Town,,Planned,2024-01-19 12:54:23
+465,102,Exeggcute,"grass,Psychic",60,40,80,40,False,136,Winona Flying,28,Fortree City,10,Caterpie,bug,45,30,35,45,False,146,Aaron Bug,19,Sandgem Town,,Planned,2024-01-19 23:04:46
+83,26,Raichu,electric,60,90,55,110,False,136,Winona Flying,28,Fortree City,7,Squirtle,water,44,48,65,43,False,140,Sidney Dark,24,Lilycove City,,In-Battle,2024-01-19 23:01:50
+148,58,Growlithe,Fire,,70,45,60,False,114,N Natural,24,Unknown,135,Jolteon,electric,65,65,60,130,False,105,May Maple,13,Petalburg City,,Planned,2024-01-19 20:02:07

@@ -1,0 +1,8 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+58,94,Gengar,"ghost,poison",60,65,60,110,False,136,Winona Flying,28,Fortree City,67,Machoke,fighting,80,100,70,45,False,101,Ash Ketchum,16,Pallet Town,,In-Battle,2024-05-25 03:35:08
+121,8,Wartortle,water,59,63,80,58,False,119,Blaine Fire,50,Cinnabar Island,68,Machamp,fighting,90,130,80,55,False,126,Chuck Fighting,40,Cianwood City,119,Completed,2024-05-25 20:20:58
+325,95,Onix,"Rock,ground",35,45,160,70,False,127,Jasmine Steel,19,Olivine City,9,Blastoise,Water,79,83,100,78,False,126,Chuck Fighting,40,Cianwood City,127,Completed,2024-05-25 01:16:19
+335,111,Rhyhorn,"Ground,Rock",80,85,95,25,False,125,Pryce Ice,60,Mahogany Town,62,Poliwrath,"water,fighting",90,95,95,70,False,128,Falkner Flying,17,Violet City,125,Completed,2024-05-25 15:57:49
+388,65,Alakazam,psychic,55,50,45,120,False,119,Blaine Fire,50,Cinnabar Island,50,Diglett,ground,10,55,25,95,False,148,Flint Fire,39,Sunnyshore City,148,Completed,2024-05-25 12:06:48
+415,2,Ivysaur,"grass,poison",60,62,63,60,False,143,Drake Dragon,45,Slateport City,11,Metapod,Bug,50,20,55,30,False,116,Lt. Surge Surge,29,Vermilion City,,In-Battle,2024-05-25 14:33:37
+495,120,Staryu,Water,30,45,55,85,False,107,Cynthia Shirona,28,Snowpoint City,148,Dragonair,dragon,61,84,65,70,False,141,Phoebe Ghost,27,Mount Pyre,107,Completed,2024-05-25 17:13:30

@@ -1,0 +1,23 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+50,130,Gyarados,"Water,Flying",95,125,79,81,False,121,Janine Poison,15,Fuchsia City,143,Snorlax,Normal,160,110,65,30,False,101,Ash Ketchum,16,Pallet Town,121,Completed,2024-05-27 11:00:40
+56,137,Porygon,Normal,65,60,70,40,False,117,Erika Celadon,22,Celadon City,30,Nidorina,poison,70,62,67,56,False,131,Roxanne Rock,17,Rustboro City,131,Completed,2024-05-27 19:27:29
+59,16,Pidgey,"Normal,Flying",40,45,40,56,False,144,Wallace Milotic,33,Sootopolis City,18,Pidgeot,"Normal,flying",83,80,75,101,False,146,Aaron Bug,19,Sandgem Town,144,Completed,2024-05-27 08:49:59
+98,61,Poliwhirl,water,65,65,65,90,False,146,Aaron Bug,19,Sandgem Town,83,Farfetch'd,"Normal,Flying",52,65,55,60,False,112,Leaf Green,18,Pallet Town,146,Completed,2024-05-27 19:06:40
+104,145,Zapdos,"Electric,Flying",90,90,85,100,True,121,Janine Poison,15,Fuchsia City,41,Zubat,"poison,flying",40,45,35,55,False,139,Juan Water,32,Sootopolis City,,In-Battle,2024-05-27 00:07:06
+119,108,Lickitung,Normal,90,55,75,30,False,105,May Maple,13,Petalburg City,13,Weedle,"Bug,poison",40,35,30,50,False,150,Cynthia Champion,30,Snowpoint City,150,Completed,2024-05-27 19:38:15
+122,25,Pikachu,electric,35,55,40,90,False,150,Cynthia Champion,30,Snowpoint City,150,Mewtwo,psychic,106,110,90,130,True,119,Blaine Fire,50,Cinnabar Island,,In-Battle,2024-05-27 10:05:36
+122,25,Pikachu,electric,35,55,40,90,False,150,Cynthia Champion,30,Snowpoint City,150,Mewtwo,psychic,106,110,90,130,True,119,Blaine Fire,50,Cinnabar Island,119,Completed,2024-05-27 20:44:50
+156,47,Parasect,"bug,Grass",60,95,80,30,False,102,Misty Waterflower,12,Cerulean City,117,Seadra,water,55,65,95,85,False,113,Wallace Juan,24,Sootopolis City,,In-Battle,2024-05-27 22:32:54
+162,11,Metapod,Bug,50,20,55,30,False,109,Lance Dragonite,21,Blackthorn City,38,Ninetales,fire,73,76,75,100,False,117,Erika Celadon,22,Celadon City,117,Completed,2024-05-27 09:37:05
+208,19,Rattata,Normal,30,56,35,72,False,104,Gary Oak,16,Pallet Town,100,Voltorb,Electric,40,30,50,100,False,112,Leaf Green,18,Pallet Town,104,Completed,2024-05-27 18:36:44
+269,44,Gloom,"grass,Poison",60,65,70,40,False,135,Norman Normal,40,Unknown,5,Charmeleon,fire,58,64,58,80,False,102,Misty Waterflower,12,Cerulean City,135,Completed,2024-05-27 09:19:42
+316,127,Pinsir,Bug,65,125,100,85,False,110,Red Champion,18,Pallet Town,65,Alakazam,Psychic,55,50,45,120,False,125,Pryce Ice,60,Mahogany Town,,In-Battle,2024-05-27 22:31:48
+355,57,Primeape,Fighting,65,105,60,95,False,119,Blaine Fire,50,Cinnabar Island,4,Charmander,fire,39,52,43,65,False,148,Flint Fire,39,Sunnyshore City,119,Completed,2024-05-27 04:47:40
+374,32,Nidoran♂,poison,46,57,40,50,False,140,Sidney Dark,24,Lilycove City,30,Nidorina,Poison,70,62,67,56,False,128,Falkner Flying,17,Violet City,140,Completed,2024-05-27 12:22:33
+384,100,Voltorb,Electric,40,30,50,100,False,107,Cynthia Shirona,28,Snowpoint City,116,Horsea,Water,30,40,70,60,False,113,Wallace Juan,24,Sootopolis City,113,Completed,2024-05-27 04:35:33
+393,103,Exeggutor,"Grass,Psychic",95,95,85,55,False,150,Cynthia Champion,30,Snowpoint City,79,Slowpoke,"water,psychic",90,65,65,15,False,104,Gary Oak,16,Pallet Town,150,Completed,2024-05-27 02:48:07
+394,141,Kabutops,"rock,Water",60,115,105,80,False,139,Juan Water,32,Sootopolis City,149,Dragonite,"dragon,flying",91,134,95,80,False,107,Cynthia Shirona,28,Snowpoint City,107,Completed,2024-05-27 07:08:53
+405,28,Sandslash,Ground,75,100,110,65,False,147,Bertha Ground,60,Shaymin Village,16,Pidgey,"Normal,flying",40,45,40,56,False,122,Clair Dragon,21,Blackthorn City,122,Completed,2024-05-27 23:19:09
+447,32,Nidoran♂,poison,46,57,40,50,False,140,Sidney Dark,24,Lilycove City,30,Nidorina,Poison,70,62,67,56,False,145,Steven Champion,35,Mossdeep City,140,Completed,2024-05-27 06:41:11
+493,140,Kabuto,"Rock,Water",30,80,90,55,False,110,Red Champion,18,Pallet Town,50,Diglett,Ground,10,55,25,95,False,104,Gary Oak,16,Pallet Town,,In-Battle,2024-05-27 13:48:09
+104,145,Zapdos,"Electric,Flying",90,90,85,100,True,121,Janine Poison,15,Fuchsia City,41,Zubat,"poison,flying",40,45,35,55,False,139,Juan Water,32,Sootopolis City,,In-Battle,2024-05-27 00:07:06

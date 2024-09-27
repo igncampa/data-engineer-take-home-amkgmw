@@ -1,0 +1,3 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+57,41,Zubat,"poison,flying",40,45,35,55,False,110,Red Champion,18,Pallet Town,109,Koffing,poison,40,65,95,35,False,103,Brock Slate,15,Pewter City,,In-Battle,2024-02-15 20:45:31
+184,112,Rhydon,"ground,rock",105,130,120,40,False,102,Misty Waterflower,12,Cerulean City,82,Magneton,"Electric,steel",50,60,95,70,False,137,Tate Psychic,12,Mossdeep City,,In-Battle,2024-02-15 22:48:32

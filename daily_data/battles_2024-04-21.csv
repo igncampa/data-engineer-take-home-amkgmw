@@ -1,0 +1,6 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+63,42,Golbat,"Poison,Flying",75,80,70,90,False,139,Juan Water,32,Sootopolis City,120,Staryu,water,30,45,55,85,False,131,Roxanne Rock,17,Rustboro City,,In-Battle,2024-04-21 03:13:29
+127,81,Magnemite,"electric,Steel",25,35,70,45,False,140,Sidney Dark,24,Lilycove City,91,Cloyster,"Water,Ice",50,95,180,70,False,108,Steven Stone,25,Mossdeep City,,In-Battle,2024-04-21 09:39:00
+135,40,Wigglytuff,"Normal,Fairy",140,70,45,45,False,110,Red Champion,18,Pallet Town,63,Abra,psychic,25,20,15,90,False,149,Lucian Psychic,28,Sunyshore City,,In-Battle,2024-04-21 01:49:27
+213,117,Seadra,water,55,65,95,85,False,146,Aaron Bug,19,Sandgem Town,62,Poliwrath,"Water,Fighting",90,95,95,70,False,111,Blue Oak,18,Pallet Town,111,Completed,2024-04-21 20:11:17
+482,21,Spearow,"normal,Flying",40,60,30,70,False,117,Erika Celadon,22,Celadon City,17,Pidgeotto,"Normal,Flying",63,60,55,71,False,134,Flannery Fire,23,Lavaridge Town,134,Completed,2024-04-21 12:15:06

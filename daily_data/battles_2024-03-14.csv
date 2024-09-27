@@ -1,0 +1,5 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+151,130,Gyarados,"Water,flying",95,125,79,81,False,141,Phoebe Ghost,27,Mount Pyre,148,Dragonair,dragon,61,84,65,70,False,129,Bugsy Bug,16,Azalea Town,,In-Battle,2024-03-14 20:55:25
+306,33,Nidorino,Poison,61,72,57,65,False,106,Dawn Berlitz,10,Twinleaf Town,141,Kabutops,"Rock,Water",60,115,105,80,False,145,Steven Champion,35,Mossdeep City,,In-Battle,2024-03-14 22:46:52
+399,29,Nidoran♀,poison,55,47,52,41,False,110,Red Champion,18,Pallet Town,26,Raichu,electric,60,90,55,110,False,123,Whitney Normal,16,Goldenrod City,110,Completed,2024-03-14 03:35:55
+457,114,Tangela,grass,65,55,115,60,False,101,Ash Ketchum,16,Pallet Town,26,Raichu,electric,60,90,55,110,False,108,Steven Stone,25,Mossdeep City,101,Completed,2024-03-14 18:11:13

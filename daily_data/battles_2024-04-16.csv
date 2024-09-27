@@ -1,0 +1,8 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+26,33,Nidorino,Poison,61,72,57,65,False,132,Brawly Fighting,20,Dewford Town,1,Bulbasaur,"grass,poison",45,49,49,45,False,134,Flannery Fire,23,Lavaridge Town,132,Completed,2024-04-16 09:27:10
+34,4,Charmander,Fire,39,52,43,65,False,133,Wattson Electric,35,Mauville City,60,Poliwag,water,40,50,40,90,False,126,Chuck Fighting,40,Cianwood City,,In-Battle,2024-04-16 12:06:13
+57,41,Zubat,"poison,flying",40,45,35,55,False,110,Red Champion,18,Pallet Town,109,Koffing,poison,40,65,95,35,False,103,Brock Slate,15,Pewter City,110,Completed,2024-04-16 23:43:34
+60,64,Kadabra,psychic,40,35,30,105,False,121,Janine Poison,15,Fuchsia City,51,Dugtrio,ground,35,80,50,120,False,113,Wallace Juan,24,Sootopolis City,,In-Battle,2024-04-16 02:51:46
+160,63,Abra,psychic,25,20,15,90,False,104,Gary Oak,16,Pallet Town,124,Jynx,"Ice,psychic",65,50,35,95,False,114,N Natural,24,Unknown,104,Completed,2024-04-16 01:27:19
+268,40,Wigglytuff,"normal,Fairy",140,70,45,45,False,131,Roxanne Rock,17,Rustboro City,76,Golem,"rock,ground",80,120,130,45,False,133,Wattson Electric,35,Mauville City,133,Completed,2024-04-16 14:41:12
+376,97,Hypno,Psychic,85,73,70,67,False,123,Whitney Normal,16,Goldenrod City,18,Pidgeot,"Normal,Flying",83,80,75,101,False,130,Karen Dark,22,Blackthorn City,130,Completed,2024-04-16 23:16:42

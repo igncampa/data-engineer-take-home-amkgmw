@@ -1,0 +1,8 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+107,86,Seel,water,65,45,55,45,False,137,Tate Psychic,12,Mossdeep City,96,Drowzee,psychic,60,48,45,42,False,124,Morty Ghost,25,Ecruteak City,,In-Battle,2024-04-18 12:33:17
+285,9,Blastoise,water,79,83,100,78,False,113,Wallace Juan,24,Sootopolis City,105,Marowak,Ground,60,80,110,45,False,130,Karen Dark,22,Blackthorn City,,In-Battle,2024-04-18 03:58:09
+290,147,Dratini,dragon,41,64,45,50,False,145,Steven Champion,35,Mossdeep City,101,Electrode,Electric,60,50,70,140,False,139,Juan Water,32,Sootopolis City,,In-Battle,2024-04-18 05:02:29
+302,33,Nidorino,Poison,61,72,57,65,False,126,Chuck Fighting,40,Cianwood City,39,Jigglypuff,"normal,fairy",115,45,20,20,False,135,Norman Normal,40,Unknown,135,Completed,2024-04-18 05:42:07
+362,54,Psyduck,water,50,52,48,55,False,144,Wallace Milotic,33,Sootopolis City,70,Weepinbell,"Grass,Poison",65,90,50,55,False,147,Bertha Ground,60,Shaymin Village,144,Completed,2024-04-18 04:53:59
+364,48,Venonat,"bug,poison",60,55,50,45,False,108,Steven Stone,25,Mossdeep City,6,Charizard,"fire,flying",78,84,78,100,False,127,Jasmine Steel,19,Olivine City,108,Completed,2024-04-18 03:58:54
+466,26,Raichu,electric,60,90,55,110,False,134,Flannery Fire,23,Lavaridge Town,98,Krabby,water,30,105,90,50,False,143,Drake Dragon,45,Slateport City,,In-Battle,2024-04-18 07:08:07

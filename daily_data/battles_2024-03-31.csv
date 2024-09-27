@@ -1,0 +1,6 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+95,148,Dragonair,dragon,61,84,65,70,False,148,Flint Fire,39,Sunnyshore City,14,Kakuna,"Bug,poison",45,25,50,35,False,132,Brawly Fighting,20,Dewford Town,132,Completed,2024-03-31 09:54:36
+302,33,Nidorino,Poison,61,72,57,65,False,126,Chuck Fighting,40,Cianwood City,39,Jigglypuff,"normal,fairy",115,45,20,20,False,135,Norman Normal,40,Unknown,,In-Battle,2024-03-31 10:35:35
+349,102,Exeggcute,"grass,psychic",60,40,80,40,False,123,Whitney Normal,16,Goldenrod City,9,Blastoise,water,79,83,100,78,False,137,Tate Psychic,12,Mossdeep City,137,Completed,2024-03-31 00:32:15
+416,20,Raticate,normal,55,81,60,97,False,129,Bugsy Bug,16,Azalea Town,120,Staryu,water,30,45,55,85,False,103,Brock Slate,15,Pewter City,,In-Battle,2024-03-31 14:51:51
+430,55,Golduck,water,80,82,78,85,False,112,Leaf Green,18,Pallet Town,35,Clefairy,Fairy,70,45,48,35,False,106,Dawn Berlitz,10,Twinleaf Town,112,Completed,2024-03-31 08:40:12

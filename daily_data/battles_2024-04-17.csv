@@ -1,0 +1,8 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+28,51,Dugtrio,Ground,35,80,50,120,False,149,Lucian Psychic,28,Sunyshore City,28,Sandslash,ground,75,100,110,65,False,132,Brawly Fighting,20,Dewford Town,132,Completed,2024-04-17 06:49:23
+187,51,Dugtrio,ground,35,80,50,120,False,117,Erika Celadon,22,Celadon City,106,Hitmonlee,fighting,50,120,53,87,False,112,Leaf Green,18,Pallet Town,,In-Battle,2024-04-17 10:35:50
+244,72,Tentacool,"Water,poison",40,40,35,70,False,138,Liza Psychic,12,Mossdeep City,101,Electrode,Electric,60,50,70,140,False,105,May Maple,13,Petalburg City,105,Completed,2024-04-17 15:23:01
+258,28,Sandslash,Ground,75,100,110,65,False,114,N Natural,24,Unknown,38,Ninetales,fire,73,76,75,100,False,123,Whitney Normal,16,Goldenrod City,114,Completed,2024-04-17 01:38:52
+299,99,Kingler,Water,55,130,115,75,False,124,Morty Ghost,25,Ecruteak City,10,Caterpie,Bug,45,30,35,45,False,129,Bugsy Bug,16,Azalea Town,,In-Battle,2024-04-17 02:28:44
+336,17,Pidgeotto,"normal,flying",63,60,55,71,False,120,Koga Poison,30,Unknown,126,Magmar,Fire,65,95,57,93,False,114,N Natural,24,Unknown,,In-Battle,2024-04-17 20:32:22
+378,126,Magmar,fire,65,95,57,93,False,115,Giovanni Rocket,35,Viridian City,93,Haunter,"Ghost,Poison",45,50,45,95,False,139,Juan Water,32,Sootopolis City,,In-Battle,2024-04-17 06:55:47

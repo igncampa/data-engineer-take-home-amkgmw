@@ -1,0 +1,12 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+5,17,Pidgeotto,"Normal,flying",63,60,55,71,False,126,Chuck Fighting,40,Cianwood City,73,Tentacruel,"Water,poison",80,70,65,100,False,135,Norman Normal,40,Unknown,126,Completed,2024-05-26 10:58:48
+22,73,Tentacruel,"Water,Poison",80,70,65,100,False,121,Janine Poison,15,Fuchsia City,99,Kingler,water,55,130,115,75,False,131,Roxanne Rock,17,Rustboro City,121,Completed,2024-05-26 04:57:34
+32,123,Scyther,"Bug,flying",70,110,80,105,False,104,Gary Oak,16,Pallet Town,97,Hypno,Psychic,85,73,70,67,False,105,May Maple,13,Petalburg City,105,Completed,2024-05-26 19:42:09
+64,140,Kabuto,"rock,Water",30,80,90,55,False,121,Janine Poison,15,Fuchsia City,18,Pidgeot,"Normal,flying",83,80,75,101,False,132,Brawly Fighting,20,Dewford Town,132,Completed,2024-05-26 17:45:20
+84,8,Wartortle,water,59,63,80,58,False,114,N Natural,24,Unknown,147,Dratini,Dragon,41,64,45,50,False,149,Lucian Psychic,28,Sunyshore City,114,Completed,2024-05-26 16:02:11
+259,3,Venusaur,"grass,poison",80,82,83,80,False,149,Lucian Psychic,28,Sunyshore City,100,Voltorb,Electric,40,30,50,100,False,103,Brock Slate,15,Pewter City,149,Completed,2024-05-26 15:28:32
+273,146,Moltres,"Fire,flying",90,100,90,90,True,112,Leaf Green,18,Pallet Town,65,Alakazam,Psychic,55,50,45,120,False,126,Chuck Fighting,40,Cianwood City,112,Completed,2024-05-26 06:34:15
+384,100,Voltorb,Electric,40,30,50,100,False,107,Cynthia Shirona,28,Snowpoint City,116,Horsea,Water,30,40,70,60,False,113,Wallace Juan,24,Sootopolis City,,In-Battle,2024-05-26 09:31:03
+446,20,Raticate,Normal,55,81,60,97,False,125,Pryce Ice,60,Mahogany Town,144,Articuno,"ice,Flying",90,85,100,85,True,140,Sidney Dark,24,Lilycove City,140,Completed,2024-05-26 04:38:59
+451,5,Charmeleon,fire,58,64,58,80,False,111,Blue Oak,18,Pallet Town,116,Horsea,Water,30,40,70,60,False,137,Tate Psychic,12,Mossdeep City,137,Completed,2024-05-26 13:02:18
+497,73,Tentacruel,"Water,Poison",80,70,65,100,False,127,Jasmine Steel,19,Olivine City,74,Geodude,"rock,ground",40,80,100,20,False,138,Liza Psychic,12,Mossdeep City,,In-Battle,2024-05-26 03:29:47

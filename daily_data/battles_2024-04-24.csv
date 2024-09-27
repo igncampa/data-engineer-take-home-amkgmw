@@ -1,0 +1,12 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+72,79,Slowpoke,"water,psychic",90,65,65,15,False,141,Phoebe Ghost,27,Mount Pyre,71,Victreebel,"Grass,poison",80,105,65,70,False,121,Janine Poison,15,Fuchsia City,,In-Battle,2024-04-24 13:14:52
+109,105,Marowak,Ground,60,80,110,45,False,138,Liza Psychic,12,Mossdeep City,107,Hitmonchan,Fighting,50,105,79,76,False,123,Whitney Normal,16,Goldenrod City,,In-Battle,2024-04-24 12:16:49
+189,52,Meowth,Normal,40,45,35,90,False,130,Karen Dark,22,Blackthorn City,133,Eevee,Normal,55,55,50,55,False,123,Whitney Normal,16,Goldenrod City,,In-Battle,2024-04-24 05:26:27
+192,99,Kingler,Water,55,130,115,75,False,120,Koga Poison,30,Unknown,36,Clefable,fairy,95,70,73,60,False,103,Brock Slate,15,Pewter City,,In-Battle,2024-04-24 18:54:07
+217,138,Omanyte,"rock,water",35,40,100,35,False,108,Steven Stone,25,Mossdeep City,59,Arcanine,fire,90,110,80,95,False,140,Sidney Dark,24,Lilycove City,,In-Battle,2024-04-24 18:39:19
+285,9,Blastoise,water,79,83,100,78,False,113,Wallace Juan,24,Sootopolis City,105,Marowak,Ground,60,80,110,45,False,130,Karen Dark,22,Blackthorn City,130,Completed,2024-04-24 10:54:08
+423,79,Slowpoke,"water,psychic",90,65,65,15,False,129,Bugsy Bug,16,Azalea Town,91,Cloyster,"Water,ice",50,95,180,70,False,126,Chuck Fighting,40,Cianwood City,126,Completed,2024-04-24 19:44:25
+427,128,Tauros,Normal,75,100,95,110,False,101,Ash Ketchum,16,Pallet Town,125,Electabuzz,Electric,65,83,57,105,False,109,Lance Dragonite,21,Blackthorn City,109,Completed,2024-04-24 12:41:59
+428,128,Tauros,Normal,75,100,95,110,False,149,Lucian Psychic,28,Sunyshore City,56,Mankey,fighting,40,80,35,70,False,108,Steven Stone,25,Mossdeep City,108,Completed,2024-04-24 14:09:20
+443,56,Mankey,fighting,40,80,35,70,False,127,Jasmine Steel,19,Olivine City,83,Farfetch'd,"normal,flying",52,65,55,60,False,105,May Maple,13,Petalburg City,,In-Battle,2024-04-24 08:16:22
+449,10,Caterpie,bug,45,30,35,45,False,106,Dawn Berlitz,10,Twinleaf Town,22,Fearow,"normal,Flying",65,90,65,100,False,137,Tate Psychic,12,Mossdeep City,137,Completed,2024-04-24 16:37:24

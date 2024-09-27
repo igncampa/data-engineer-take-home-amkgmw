@@ -1,0 +1,14 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+24,78,Rapidash,fire,65,100,70,105,False,134,Flannery Fire,23,Lavaridge Town,113,Chansey,normal,250,5,5,50,False,122,Clair Dragon,21,Blackthorn City,122,Completed,2024-05-11 01:33:34
+74,31,Nidoqueen,"poison,ground",90,92,87,76,False,141,Phoebe Ghost,27,Mount Pyre,80,Slowbro,"Water,psychic",95,75,110,30,False,116,Lt. Surge Surge,29,Vermilion City,116,Completed,2024-05-11 22:53:12
+97,68,Machamp,fighting,90,130,80,55,False,102,Misty Waterflower,12,Cerulean City,7,Squirtle,Water,44,48,65,43,False,148,Flint Fire,39,Sunnyshore City,148,Completed,2024-05-11 20:14:26
+198,69,Bellsprout,"Grass,poison",50,75,35,40,False,146,Aaron Bug,19,Sandgem Town,102,Exeggcute,"Grass,Psychic",60,40,80,40,False,144,Wallace Milotic,33,Sootopolis City,146,Completed,2024-05-11 08:13:40
+272,80,Slowbro,"Water,psychic",95,75,110,30,False,149,Lucian Psychic,28,Sunyshore City,79,Slowpoke,"Water,Psychic",90,65,65,15,False,120,Koga Poison,30,Unknown,149,Completed,2024-05-11 05:10:46
+295,107,Hitmonchan,fighting,50,105,79,76,False,104,Gary Oak,16,Pallet Town,94,Gengar,"ghost,Poison",60,65,60,110,False,105,May Maple,13,Petalburg City,104,Completed,2024-05-11 02:34:44
+402,105,Marowak,Ground,60,80,110,45,False,111,Blue Oak,18,Pallet Town,33,Nidorino,poison,61,72,57,65,False,144,Wallace Milotic,33,Sootopolis City,,In-Battle,2024-05-11 09:59:37
+413,133,Eevee,Normal,55,55,50,55,False,109,Lance Dragonite,21,Blackthorn City,84,Doduo,"normal,Flying",35,85,45,75,False,134,Flannery Fire,23,Lavaridge Town,109,Completed,2024-05-11 09:20:15
+443,56,Mankey,fighting,40,80,35,70,False,127,Jasmine Steel,19,Olivine City,83,Farfetch'd,"normal,flying",52,65,55,60,False,105,May Maple,13,Petalburg City,105,Completed,2024-05-11 08:20:16
+464,124,Jynx,"ice,psychic",65,50,35,95,False,136,Winona Flying,28,Fortree City,137,Porygon,Normal,65,60,70,40,False,102,Misty Waterflower,12,Cerulean City,136,Completed,2024-05-11 03:29:38
+486,136,Flareon,fire,65,130,60,65,False,122,Clair Dragon,21,Blackthorn City,28,Sandslash,Ground,75,100,110,65,False,106,Dawn Berlitz,10,Twinleaf Town,122,Completed,2024-05-11 14:01:35
+488,130,Gyarados,"water,flying",95,125,79,81,False,117,Erika Celadon,22,Celadon City,46,Paras,"Bug,grass",35,70,55,25,False,126,Chuck Fighting,40,Cianwood City,,In-Battle,2024-05-11 04:06:26
+494,96,Drowzee,Psychic,60,48,45,42,False,142,Glacia Ice,29,Mossdeep City,117,Seadra,water,55,65,95,85,False,129,Bugsy Bug,16,Azalea Town,,In-Battle,2024-05-11 18:54:33

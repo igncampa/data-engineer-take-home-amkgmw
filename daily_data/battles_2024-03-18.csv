@@ -1,0 +1,7 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+111,105,Marowak,Ground,60,80,110,45,False,117,Erika Celadon,22,Celadon City,32,Nidoran♂,Poison,46,57,40,50,False,110,Red Champion,18,Pallet Town,,In-Battle,2024-03-18 10:10:58
+113,135,Jolteon,electric,65,65,60,130,False,128,Falkner Flying,17,Violet City,7,Squirtle,water,44,48,65,43,False,131,Roxanne Rock,17,Rustboro City,,In-Battle,2024-03-18 02:16:21
+113,135,Jolteon,electric,65,65,60,130,False,128,Falkner Flying,17,Violet City,7,Squirtle,water,44,48,65,43,False,131,Roxanne Rock,17,Rustboro City,131,Completed,2024-03-18 18:55:22
+153,31,Nidoqueen,"poison,Ground",90,92,87,76,False,147,Bertha Ground,60,Shaymin Village,144,Articuno,"Ice,flying",90,85,100,85,True,132,Brawly Fighting,20,Dewford Town,132,Completed,2024-03-18 22:10:14
+463,82,Magneton,"Electric,Steel",50,60,95,70,False,106,Dawn Berlitz,10,Twinleaf Town,33,Nidorino,Poison,61,72,57,65,False,103,Brock Slate,15,Pewter City,,In-Battle,2024-03-18 15:52:19
+469,37,Vulpix,fire,38,41,40,65,False,122,Clair Dragon,21,Blackthorn City,45,Vileplume,"Grass,poison",75,80,85,50,False,102,Misty Waterflower,12,Cerulean City,102,Completed,2024-03-18 06:44:28

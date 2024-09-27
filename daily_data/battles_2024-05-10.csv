@@ -1,0 +1,8 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+76,42,Golbat,"poison,flying",75,80,70,90,False,103,Brock Slate,15,Pewter City,83,Farfetch'd,"normal,Flying",52,65,55,60,False,105,May Maple,13,Petalburg City,105,Completed,2024-05-10 03:34:26
+102,14,Kakuna,"bug,Poison",45,25,50,35,False,124,Morty Ghost,25,Ecruteak City,34,Nidoking,"Poison,ground",81,102,77,85,False,121,Janine Poison,15,Fuchsia City,124,Completed,2024-05-10 17:03:41
+233,148,Dragonair,Dragon,61,84,65,70,False,111,Blue Oak,18,Pallet Town,142,Aerodactyl,"Rock,flying",80,105,65,130,False,131,Roxanne Rock,17,Rustboro City,131,Completed,2024-05-10 18:26:15
+242,5,Charmeleon,Fire,58,64,58,80,False,112,Leaf Green,18,Pallet Town,11,Metapod,bug,50,20,55,30,False,136,Winona Flying,28,Fortree City,112,Completed,2024-05-10 19:04:02
+480,51,Dugtrio,ground,35,80,50,120,False,132,Brawly Fighting,20,Dewford Town,89,Muk,Poison,105,105,75,50,False,122,Clair Dragon,21,Blackthorn City,132,Completed,2024-05-10 14:32:51
+487,105,Marowak,ground,60,80,110,45,False,102,Misty Waterflower,12,Cerulean City,87,Dewgong,"Water,ice",90,70,80,70,False,135,Norman Normal,40,Unknown,102,Completed,2024-05-10 17:13:34
+76,42,Golbat,"poison,flying",75,80,70,90,False,103,Brock Slate,15,Pewter City,83,Farfetch'd,"normal,Flying",52,65,55,60,False,105,May Maple,13,Petalburg City,105,Completed,2024-05-10 03:34:26

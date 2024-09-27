@@ -1,0 +1,22 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+4,151,Mew,Psychic,100,100,,100,True,113,Wallace Juan,24,Sootopolis City,108,Lickitung,Normal,90,,75,30,False,136,Winona Flying,28,Fortree City,,Planned,2024-01-15 07:54:24
+10,88,Grimer,poison,80,80,50,25,False,120,Koga Poison,30,Unknown,112,Rhydon,"ground,Rock",105,130,,40,False,128,Falkner Flying,17,Violet City,,Planned,2024-01-15 10:36:37
+74,31,Nidoqueen,"poison,ground",,92,87,76,False,141,Phoebe Ghost,27,Mount Pyre,80,Slowbro,"Water,psychic",,75,110,30,False,116,Lt. Surge Surge,29,Vermilion City,,Planned,2024-01-15 01:33:42
+119,108,Lickitung,Normal,90,,75,,False,105,May Maple,13,Petalburg City,13,Weedle,"Bug,poison",40,35,30,50,False,150,Cynthia Champion,30,Snowpoint City,,Planned,2024-01-15 05:43:41
+167,46,Paras,"Bug,grass",35,70,55,,False,112,Leaf Green,18,Pallet Town,95,Onix,"Rock,ground",35,45,160,70,False,105,May Maple,13,Petalburg City,,Planned,2024-01-15 10:07:25
+174,25,Pikachu,electric,35,55,40,90,False,135,Norman Normal,40,Unknown,37,Vulpix,fire,,41,40,65,False,116,Lt. Surge Surge,29,Vermilion City,,Planned,2024-01-15 11:39:00
+200,60,Poliwag,water,40,,40,90,False,113,Wallace Juan,24,Sootopolis City,1,Bulbasaur,"Grass,poison",45,49,49,45,False,128,Falkner Flying,17,Violet City,,Planned,2024-01-15 06:01:27
+231,58,Growlithe,Fire,55,70,45,60,False,108,Steven Stone,25,Mossdeep City,107,Hitmonchan,Fighting,50,,79,76,False,136,Winona Flying,28,Fortree City,,Planned,2024-01-15 18:35:22
+257,60,Poliwag,water,,50,40,90,False,141,Phoebe Ghost,27,Mount Pyre,151,Mew,Psychic,,100,100,,True,106,Dawn Berlitz,10,Twinleaf Town,,Planned,2024-01-15 14:19:19
+288,148,Dragonair,dragon,61,,65,70,False,122,Clair Dragon,21,Blackthorn City,150,Mewtwo,Psychic,106,110,,,True,138,Liza Psychic,12,Mossdeep City,,Planned,2024-01-15 01:51:37
+303,53,Persian,Normal,65,,60,115,False,125,Pryce Ice,60,Mahogany Town,30,Nidorina,poison,70,62,67,56,False,130,Karen Dark,22,Blackthorn City,,Planned,2024-01-15 01:01:56
+307,48,Venonat,"Bug,Poison",60,55,50,45,False,102,Misty Waterflower,12,Cerulean City,145,Zapdos,"Electric,Flying",90,90,85,100,True,142,Glacia Ice,29,Mossdeep City,,Planned,2024-01-15 15:18:26
+308,39,Jigglypuff,"Normal,fairy",115,45,20,20,False,149,Lucian Psychic,28,Sunyshore City,84,Doduo,"normal,flying",,85,45,75,False,140,Sidney Dark,24,Lilycove City,,Planned,2024-01-15 12:37:56
+328,96,Drowzee,Psychic,60,48,45,,False,115,Giovanni Rocket,35,Viridian City,81,Magnemite,"Electric,Steel",25,35,70,45,False,125,Pryce Ice,60,Mahogany Town,,Planned,2024-01-15 23:06:55
+376,97,Hypno,Psychic,85,,70,,False,123,Whitney Normal,16,Goldenrod City,18,Pidgeot,"Normal,Flying",83,80,75,101,False,130,Karen Dark,22,Blackthorn City,,Planned,2024-01-15 20:15:02
+384,100,Voltorb,Electric,40,,50,100,False,107,Cynthia Shirona,28,Snowpoint City,116,Horsea,Water,,40,,60,False,113,Wallace Juan,24,Sootopolis City,,Planned,2024-01-15 17:21:15
+404,23,Ekans,poison,,60,,55,False,129,Bugsy Bug,16,Azalea Town,32,Nidoran♂,poison,46,57,,50,False,139,Juan Water,32,Sootopolis City,,Planned,2024-01-15 20:54:38
+30,91,Cloyster,"Water,ice",50,95,180,70,False,120,Koga Poison,30,Unknown,61,Poliwhirl,Water,65,65,65,90,False,113,Wallace Juan,24,Sootopolis City,,In-Battle,2024-01-15 11:40:32
+47,123,Scyther,"Bug,Flying",70,110,80,105,False,102,Misty Waterflower,12,Cerulean City,30,Nidorina,poison,70,62,67,56,False,114,N Natural,24,Unknown,,In-Battle,2024-01-15 21:03:28
+73,68,Machamp,fighting,90,130,80,55,False,142,Glacia Ice,29,Mossdeep City,146,Moltres,"fire,flying",90,100,90,90,True,120,Koga Poison,30,Unknown,,In-Battle,2024-01-15 14:09:05
+414,9,Blastoise,water,79,83,100,78,False,122,Clair Dragon,21,Blackthorn City,85,Dodrio,"normal,flying",60,110,70,100,False,143,Drake Dragon,45,Slateport City,,In-Battle,2024-01-15 21:33:41

@@ -1,0 +1,10 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+28,51,Dugtrio,Ground,35,80,50,120,False,149,Lucian Psychic,28,Sunyshore City,28,Sandslash,ground,75,100,110,65,False,132,Brawly Fighting,20,Dewford Town,,In-Battle,2024-02-20 00:17:10
+110,122,Mr. Mime,"Psychic,Fairy",40,45,65,90,False,106,Dawn Berlitz,10,Twinleaf Town,125,Electabuzz,electric,65,83,57,105,False,109,Lance Dragonite,21,Blackthorn City,,In-Battle,2024-02-20 05:03:11
+179,139,Omastar,"Rock,water",70,60,125,55,False,112,Leaf Green,18,Pallet Town,77,Ponyta,fire,50,85,55,90,False,122,Clair Dragon,21,Blackthorn City,,In-Battle,2024-02-20 17:06:46
+240,70,Weepinbell,"Grass,poison",65,90,50,55,False,107,Cynthia Shirona,28,Snowpoint City,149,Dragonite,"Dragon,flying",91,134,95,80,False,136,Winona Flying,28,Fortree City,,Cancelled,2024-02-20 13:13:40
+271,88,Grimer,poison,80,80,50,25,False,117,Erika Celadon,22,Celadon City,148,Dragonair,dragon,61,84,65,70,False,136,Winona Flying,28,Fortree City,136,Completed,2024-02-20 14:00:48
+292,108,Lickitung,Normal,90,55,75,30,False,149,Lucian Psychic,28,Sunyshore City,58,Growlithe,fire,55,70,45,60,False,147,Bertha Ground,60,Shaymin Village,,In-Battle,2024-02-20 12:58:26
+349,102,Exeggcute,"grass,psychic",60,40,80,40,False,123,Whitney Normal,16,Goldenrod City,9,Blastoise,water,79,83,100,78,False,137,Tate Psychic,12,Mossdeep City,,In-Battle,2024-02-20 08:45:47
+392,6,Charizard,"fire,flying",78,84,78,100,False,128,Falkner Flying,17,Violet City,80,Slowbro,"Water,Psychic",95,75,110,30,False,121,Janine Poison,15,Fuchsia City,,In-Battle,2024-02-20 06:52:01
+401,16,Pidgey,"Normal,Flying",40,45,40,56,False,141,Phoebe Ghost,27,Mount Pyre,14,Kakuna,"bug,Poison",45,25,50,35,False,150,Cynthia Champion,30,Snowpoint City,,In-Battle,2024-02-20 06:40:30

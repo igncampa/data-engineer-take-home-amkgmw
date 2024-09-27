@@ -1,0 +1,9 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+56,137,Porygon,Normal,65,60,70,40,False,117,Erika Celadon,22,Celadon City,30,Nidorina,poison,70,62,67,56,False,131,Roxanne Rock,17,Rustboro City,,In-Battle,2024-03-08 12:58:35
+128,91,Cloyster,"water,ice",50,95,180,70,False,107,Cynthia Shirona,28,Snowpoint City,11,Metapod,Bug,50,20,55,30,False,132,Brawly Fighting,20,Dewford Town,107,Completed,2024-03-08 15:17:10
+130,25,Pikachu,Electric,35,55,40,90,False,142,Glacia Ice,29,Mossdeep City,11,Metapod,Bug,50,20,55,30,False,111,Blue Oak,18,Pallet Town,,In-Battle,2024-03-08 02:01:08
+131,98,Krabby,water,30,105,90,50,False,121,Janine Poison,15,Fuchsia City,69,Bellsprout,"grass,poison",50,75,35,40,False,138,Liza Psychic,12,Mossdeep City,,In-Battle,2024-03-08 08:06:46
+131,98,Krabby,water,30,105,90,50,False,121,Janine Poison,15,Fuchsia City,69,Bellsprout,"grass,poison",50,75,35,40,False,138,Liza Psychic,12,Mossdeep City,138,Completed,2024-03-08 14:40:06
+166,5,Charmeleon,Fire,58,64,58,80,False,147,Bertha Ground,60,Shaymin Village,49,Venomoth,"Bug,Poison",70,65,60,90,False,127,Jasmine Steel,19,Olivine City,,In-Battle,2024-03-08 21:51:25
+199,11,Metapod,bug,50,20,55,30,False,109,Lance Dragonite,21,Blackthorn City,82,Magneton,"Electric,steel",50,60,95,70,False,138,Liza Psychic,12,Mossdeep City,,In-Battle,2024-03-08 11:14:37
+444,5,Charmeleon,Fire,58,64,58,80,False,123,Whitney Normal,16,Goldenrod City,89,Muk,Poison,105,105,75,50,False,135,Norman Normal,40,Unknown,,In-Battle,2024-03-08 00:48:01

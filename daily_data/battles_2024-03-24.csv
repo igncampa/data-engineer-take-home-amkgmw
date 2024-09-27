@@ -1,0 +1,9 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+14,125,Electabuzz,Electric,65,83,57,105,False,104,Gary Oak,16,Pallet Town,94,Gengar,"Ghost,poison",60,65,60,110,False,128,Falkner Flying,17,Violet City,,In-Battle,2024-03-24 13:04:16
+213,117,Seadra,water,55,65,95,85,False,146,Aaron Bug,19,Sandgem Town,62,Poliwrath,"Water,Fighting",90,95,95,70,False,111,Blue Oak,18,Pallet Town,,In-Battle,2024-03-24 17:02:30
+281,143,Snorlax,normal,160,110,65,30,False,106,Dawn Berlitz,10,Twinleaf Town,49,Venomoth,"bug,Poison",70,65,60,90,False,110,Red Champion,18,Pallet Town,,In-Battle,2024-03-24 04:52:01
+291,109,Koffing,Poison,40,65,95,35,False,122,Clair Dragon,21,Blackthorn City,67,Machoke,fighting,80,100,70,45,False,140,Sidney Dark,24,Lilycove City,,In-Battle,2024-03-24 20:38:48
+328,96,Drowzee,Psychic,60,48,45,42,False,115,Giovanni Rocket,35,Viridian City,81,Magnemite,"Electric,Steel",25,35,70,45,False,125,Pryce Ice,60,Mahogany Town,,In-Battle,2024-03-24 00:17:52
+382,69,Bellsprout,"grass,poison",50,75,35,40,False,105,May Maple,13,Petalburg City,101,Electrode,electric,60,50,70,140,False,110,Red Champion,18,Pallet Town,,In-Battle,2024-03-24 08:56:46
+433,57,Primeape,Fighting,65,105,60,95,False,110,Red Champion,18,Pallet Town,50,Diglett,Ground,10,55,25,95,False,135,Norman Normal,40,Unknown,,In-Battle,2024-03-24 19:45:51
+491,139,Omastar,"rock,water",70,60,125,55,False,114,N Natural,24,Unknown,103,Exeggutor,"grass,psychic",95,95,85,55,False,106,Dawn Berlitz,10,Twinleaf Town,114,Completed,2024-03-24 13:10:37

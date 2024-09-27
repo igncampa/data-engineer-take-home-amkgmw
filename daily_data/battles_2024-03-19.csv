@@ -1,0 +1,7 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+20,61,Poliwhirl,water,65,65,65,90,False,115,Giovanni Rocket,35,Viridian City,26,Raichu,Electric,60,90,55,110,False,132,Brawly Fighting,20,Dewford Town,,In-Battle,2024-03-19 14:51:41
+71,121,Starmie,"Water,Psychic",60,75,85,115,False,103,Brock Slate,15,Pewter City,54,Psyduck,Water,50,52,48,55,False,115,Giovanni Rocket,35,Viridian City,103,Completed,2024-03-19 18:16:47
+168,132,Ditto,normal,48,48,48,48,False,108,Steven Stone,25,Mossdeep City,133,Eevee,normal,55,55,50,55,False,116,Lt. Surge Surge,29,Vermilion City,108,Completed,2024-03-19 22:55:24
+420,87,Dewgong,"Water,Ice",90,70,80,70,False,146,Aaron Bug,19,Sandgem Town,102,Exeggcute,"Grass,psychic",60,40,80,40,False,148,Flint Fire,39,Sunnyshore City,,In-Battle,2024-03-19 05:50:56
+425,4,Charmander,Fire,39,52,43,65,False,125,Pryce Ice,60,Mahogany Town,88,Grimer,poison,80,80,50,25,False,136,Winona Flying,28,Fortree City,,In-Battle,2024-03-19 02:01:58
+440,5,Charmeleon,fire,58,64,58,80,False,139,Juan Water,32,Sootopolis City,121,Starmie,"water,psychic",60,75,85,115,False,110,Red Champion,18,Pallet Town,110,Completed,2024-03-19 09:24:45

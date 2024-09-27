@@ -1,0 +1,8 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+132,33,Nidorino,poison,61,72,57,65,False,105,May Maple,13,Petalburg City,49,Venomoth,"bug,poison",70,65,60,90,False,116,Lt. Surge Surge,29,Vermilion City,,In-Battle,2024-05-12 04:04:08
+217,138,Omanyte,"rock,water",35,40,100,35,False,108,Steven Stone,25,Mossdeep City,59,Arcanine,fire,90,110,80,95,False,140,Sidney Dark,24,Lilycove City,140,Completed,2024-05-12 10:32:34
+221,28,Sandslash,ground,75,100,110,65,False,103,Brock Slate,15,Pewter City,89,Muk,poison,105,105,75,50,False,142,Glacia Ice,29,Mossdeep City,,In-Battle,2024-05-12 07:56:24
+320,111,Rhyhorn,"ground,rock",80,85,95,25,False,131,Roxanne Rock,17,Rustboro City,146,Moltres,"Fire,Flying",90,100,90,90,True,138,Liza Psychic,12,Mossdeep City,,In-Battle,2024-05-12 04:17:45
+400,86,Seel,Water,65,45,55,45,False,150,Cynthia Champion,30,Snowpoint City,19,Rattata,normal,30,56,35,72,False,102,Misty Waterflower,12,Cerulean City,150,Completed,2024-05-12 18:50:11
+404,23,Ekans,poison,35,60,44,55,False,129,Bugsy Bug,16,Azalea Town,32,Nidoran♂,poison,46,57,40,50,False,139,Juan Water,32,Sootopolis City,139,Completed,2024-05-12 01:33:16
+471,87,Dewgong,"Water,Ice",90,70,80,70,False,127,Jasmine Steel,19,Olivine City,51,Dugtrio,ground,35,80,50,120,False,124,Morty Ghost,25,Ecruteak City,,In-Battle,2024-05-12 01:59:22

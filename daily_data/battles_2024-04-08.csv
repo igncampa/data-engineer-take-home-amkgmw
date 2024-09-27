@@ -1,0 +1,8 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+24,78,Rapidash,fire,65,100,70,105,False,134,Flannery Fire,23,Lavaridge Town,113,Chansey,normal,250,5,5,50,False,122,Clair Dragon,21,Blackthorn City,,In-Battle,2024-04-08 10:35:48
+163,131,Lapras,"water,ice",130,85,80,60,False,106,Dawn Berlitz,10,Twinleaf Town,42,Golbat,"poison,Flying",75,80,70,90,False,107,Cynthia Shirona,28,Snowpoint City,,In-Battle,2024-04-08 11:42:43
+280,31,Nidoqueen,"poison,Ground",90,92,87,76,False,132,Brawly Fighting,20,Dewford Town,21,Spearow,"normal,flying",40,60,30,70,False,110,Red Champion,18,Pallet Town,,In-Battle,2024-04-08 11:30:26
+298,110,Weezing,Poison,65,90,120,60,False,128,Falkner Flying,17,Violet City,127,Pinsir,Bug,65,125,100,85,False,104,Gary Oak,16,Pallet Town,128,Completed,2024-04-08 17:31:39
+334,150,Mewtwo,psychic,106,110,90,130,True,122,Clair Dragon,21,Blackthorn City,106,Hitmonlee,fighting,50,120,53,87,False,117,Erika Celadon,22,Celadon City,122,Completed,2024-04-08 10:55:33
+439,144,Articuno,"Ice,flying",90,85,100,85,True,110,Red Champion,18,Pallet Town,14,Kakuna,"bug,poison",45,25,50,35,False,149,Lucian Psychic,28,Sunyshore City,110,Completed,2024-04-08 20:34:52
+470,109,Koffing,poison,40,65,95,35,False,116,Lt. Surge Surge,29,Vermilion City,110,Weezing,poison,65,90,120,60,False,119,Blaine Fire,50,Cinnabar Island,119,Completed,2024-04-08 10:45:22

@@ -1,0 +1,4 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+100,101,Electrode,electric,60,50,70,140,False,136,Winona Flying,28,Fortree City,14,Kakuna,"bug,poison",45,25,50,35,False,115,Giovanni Rocket,35,Viridian City,,In-Battle,2024-02-09 03:09:33
+257,60,Poliwag,water,40,50,40,90,False,141,Phoebe Ghost,27,Mount Pyre,151,Mew,Psychic,100,100,100,100,True,106,Dawn Berlitz,10,Twinleaf Town,,In-Battle,2024-02-09 22:40:03
+282,144,Articuno,"Ice,Flying",90,85,100,85,True,103,Brock Slate,15,Pewter City,138,Omanyte,"rock,Water",35,40,100,35,False,113,Wallace Juan,24,Sootopolis City,,In-Battle,2024-02-09 10:42:13

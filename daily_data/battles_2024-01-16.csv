@@ -1,0 +1,18 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+98,61,Poliwhirl,water,,65,,90,False,146,Aaron Bug,19,Sandgem Town,83,Farfetch'd,"Normal,Flying",52,65,,60,False,112,Leaf Green,18,Pallet Town,,Planned,2024-01-16 07:23:27
+113,135,Jolteon,electric,65,65,,130,False,128,Falkner Flying,17,Violet City,7,Squirtle,water,44,,65,43,False,131,Roxanne Rock,17,Rustboro City,,Planned,2024-01-16 14:39:04
+120,28,Sandslash,Ground,75,,,65,False,102,Misty Waterflower,12,Cerulean City,75,Graveler,"rock,ground",55,95,115,35,False,121,Janine Poison,15,Fuchsia City,,Planned,2024-01-16 12:35:15
+159,80,Slowbro,"Water,psychic",95,,110,30,False,140,Sidney Dark,24,Lilycove City,3,Venusaur,"grass,poison",80,82,83,,False,137,Tate Psychic,12,Mossdeep City,,Planned,2024-01-16 06:06:33
+194,11,Metapod,bug,50,20,55,30,False,111,Blue Oak,18,Pallet Town,63,Abra,Psychic,25,20,15,90,False,128,Falkner Flying,17,Violet City,,Planned,2024-01-16 20:02:58
+235,123,Scyther,"bug,Flying",70,110,80,105,False,110,Red Champion,18,Pallet Town,127,Pinsir,bug,65,125,100,85,False,147,Bertha Ground,60,Shaymin Village,,Planned,2024-01-16 06:02:59
+246,142,Aerodactyl,"rock,Flying",80,105,65,,False,103,Brock Slate,15,Pewter City,35,Clefairy,Fairy,70,,48,35,False,137,Tate Psychic,12,Mossdeep City,,Planned,2024-01-16 19:24:38
+276,143,Snorlax,normal,160,110,65,30,False,119,Blaine Fire,50,Cinnabar Island,24,Arbok,poison,,,69,80,False,115,Giovanni Rocket,35,Viridian City,,Planned,2024-01-16 02:39:28
+342,106,Hitmonlee,fighting,,,53,87,False,110,Red Champion,18,Pallet Town,7,Squirtle,Water,44,48,65,43,False,118,Sabrina Psychic,20,Saffron City,,Planned,2024-01-16 16:56:33
+399,29,Nidoran♀,poison,55,47,52,41,False,110,Red Champion,18,Pallet Town,26,Raichu,electric,60,90,,110,False,123,Whitney Normal,16,Goldenrod City,,Planned,2024-01-16 03:18:06
+440,5,Charmeleon,fire,58,64,58,80,False,139,Juan Water,32,Sootopolis City,121,Starmie,"water,psychic",60,75,85,115,False,110,Red Champion,18,Pallet Town,,Planned,2024-01-16 10:08:40
+468,10,Caterpie,bug,,30,35,45,False,117,Erika Celadon,22,Celadon City,69,Bellsprout,"Grass,Poison",50,75,35,,False,105,May Maple,13,Petalburg City,,Planned,2024-01-16 17:07:21
+469,37,Vulpix,fire,38,,40,65,False,122,Clair Dragon,21,Blackthorn City,45,Vileplume,"Grass,poison",75,80,85,,False,102,Misty Waterflower,12,Cerulean City,,Planned,2024-01-16 15:17:26
+494,96,Drowzee,Psychic,60,,45,42,False,142,Glacia Ice,29,Mossdeep City,117,Seadra,water,,65,,85,False,129,Bugsy Bug,16,Azalea Town,,Planned,2024-01-16 12:14:41
+495,120,Staryu,Water,30,45,55,85,False,107,Cynthia Shirona,28,Snowpoint City,148,Dragonair,dragon,61,84,65,70,False,141,Phoebe Ghost,27,Mount Pyre,,Planned,2024-01-16 17:35:15
+394,141,Kabutops,"rock,Water",60,115,105,80,False,139,Juan Water,32,Sootopolis City,149,Dragonite,"dragon,flying",91,134,95,80,False,107,Cynthia Shirona,28,Snowpoint City,,In-Battle,2024-01-16 23:24:29
+411,63,Abra,psychic,25,20,15,90,False,130,Karen Dark,22,Blackthorn City,84,Doduo,"normal,Flying",35,85,45,75,False,149,Lucian Psychic,28,Sunyshore City,,In-Battle,2024-01-16 07:54:10

@@ -1,0 +1,7 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+138,40,Wigglytuff,"Normal,fairy",140,70,45,45,False,125,Pryce Ice,60,Mahogany Town,14,Kakuna,"bug,poison",45,25,50,35,False,148,Flint Fire,39,Sunnyshore City,148,Completed,2024-02-25 09:52:13
+148,58,Growlithe,Fire,55,70,45,60,False,114,N Natural,24,Unknown,135,Jolteon,electric,65,65,60,130,False,105,May Maple,13,Petalburg City,,In-Battle,2024-02-25 12:34:27
+148,58,Growlithe,Fire,55,70,45,60,False,114,N Natural,24,Unknown,135,Jolteon,electric,65,65,60,130,False,105,May Maple,13,Petalburg City,114,Completed,2024-02-25 22:22:15
+155,139,Omastar,"rock,water",70,60,125,55,False,124,Morty Ghost,25,Ecruteak City,31,Nidoqueen,"Poison,Ground",90,92,87,76,False,102,Misty Waterflower,12,Cerulean City,,In-Battle,2024-02-25 04:36:34
+278,133,Eevee,Normal,55,55,50,55,False,124,Morty Ghost,25,Ecruteak City,104,Cubone,Ground,50,50,95,35,False,130,Karen Dark,22,Blackthorn City,,In-Battle,2024-02-25 17:06:08
+464,124,Jynx,"ice,psychic",65,50,35,95,False,136,Winona Flying,28,Fortree City,137,Porygon,Normal,65,60,70,40,False,102,Misty Waterflower,12,Cerulean City,,In-Battle,2024-02-25 11:40:32

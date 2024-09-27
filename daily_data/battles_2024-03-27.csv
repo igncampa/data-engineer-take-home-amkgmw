@@ -1,0 +1,5 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+48,126,Magmar,fire,65,95,57,93,False,139,Juan Water,32,Sootopolis City,52,Meowth,Normal,40,45,35,90,False,147,Bertha Ground,60,Shaymin Village,,In-Battle,2024-03-27 18:13:27
+94,101,Electrode,electric,60,50,70,140,False,127,Jasmine Steel,19,Olivine City,126,Magmar,fire,65,95,57,93,False,129,Bugsy Bug,16,Azalea Town,129,Completed,2024-03-27 12:22:40
+161,84,Doduo,"Normal,Flying",35,85,45,75,False,111,Blue Oak,18,Pallet Town,62,Poliwrath,"Water,Fighting",90,95,95,70,False,109,Lance Dragonite,21,Blackthorn City,109,Completed,2024-03-27 16:26:53
+324,36,Clefable,fairy,95,70,73,60,False,127,Jasmine Steel,19,Olivine City,87,Dewgong,"Water,ice",90,70,80,70,False,150,Cynthia Champion,30,Snowpoint City,,In-Battle,2024-03-27 16:27:46

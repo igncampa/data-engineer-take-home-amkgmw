@@ -1,0 +1,5 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+59,16,Pidgey,"Normal,Flying",40,45,40,56,False,144,Wallace Milotic,33,Sootopolis City,18,Pidgeot,"Normal,flying",83,80,75,101,False,146,Aaron Bug,19,Sandgem Town,,In-Battle,2024-02-11 03:39:31
+74,31,Nidoqueen,"poison,ground",90,92,87,76,False,141,Phoebe Ghost,27,Mount Pyre,80,Slowbro,"Water,psychic",95,75,110,30,False,116,Lt. Surge Surge,29,Vermilion City,,In-Battle,2024-02-11 13:53:10
+249,116,Horsea,water,30,40,70,60,False,120,Koga Poison,30,Unknown,13,Weedle,"Bug,poison",40,35,30,50,False,106,Dawn Berlitz,10,Twinleaf Town,,In-Battle,2024-02-11 21:56:36
+412,53,Persian,normal,65,70,60,115,False,134,Flannery Fire,23,Lavaridge Town,107,Hitmonchan,Fighting,50,105,79,76,False,131,Roxanne Rock,17,Rustboro City,131,Completed,2024-02-11 11:50:47

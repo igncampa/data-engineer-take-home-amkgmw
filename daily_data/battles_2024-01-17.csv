@@ -1,0 +1,23 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+29,139,Omastar,"rock,Water",,,125,55,False,133,Wattson Electric,35,Mauville City,77,Ponyta,fire,50,85,,90,False,138,Liza Psychic,12,Mossdeep City,,Planned,2024-01-17 00:19:17
+41,65,Alakazam,psychic,55,50,45,120,False,138,Liza Psychic,12,Mossdeep City,19,Rattata,Normal,30,56,35,72,False,108,Steven Stone,25,Mossdeep City,,Planned,2024-01-17 23:05:48
+49,137,Porygon,normal,65,60,70,40,False,138,Liza Psychic,12,Mossdeep City,93,Haunter,"Ghost,Poison",45,,45,95,False,140,Sidney Dark,24,Lilycove City,,Planned,2024-01-17 15:21:24
+57,41,Zubat,"poison,flying",40,45,35,55,False,110,Red Champion,18,Pallet Town,109,Koffing,poison,40,,95,,False,103,Brock Slate,15,Pewter City,,Planned,2024-01-17 16:56:08
+64,140,Kabuto,"rock,Water",30,80,90,55,False,121,Janine Poison,15,Fuchsia City,18,Pidgeot,"Normal,flying",83,80,75,,False,132,Brawly Fighting,20,Dewford Town,,Planned,2024-01-17 06:25:27
+67,85,Dodrio,"normal,Flying",60,110,70,100,False,126,Chuck Fighting,40,Cianwood City,88,Grimer,Poison,80,80,50,25,False,137,Tate Psychic,12,Mossdeep City,,Planned,2024-01-17 08:14:10
+82,38,Ninetales,Fire,73,76,75,100,False,118,Sabrina Psychic,20,Saffron City,40,Wigglytuff,"normal,Fairy",140,70,45,45,False,128,Falkner Flying,17,Violet City,,Planned,2024-01-17 13:59:25
+127,81,Magnemite,"electric,Steel",25,35,70,45,False,140,Sidney Dark,24,Lilycove City,91,Cloyster,"Water,Ice",50,95,180,70,False,108,Steven Stone,25,Mossdeep City,,Planned,2024-01-17 00:33:55
+156,47,Parasect,"bug,Grass",60,95,80,30,False,102,Misty Waterflower,12,Cerulean City,117,Seadra,water,55,,95,85,False,113,Wallace Juan,24,Sootopolis City,,Planned,2024-01-17 14:30:48
+158,33,Nidorino,poison,61,,57,65,False,139,Juan Water,32,Sootopolis City,82,Magneton,"electric,Steel",50,,95,,False,104,Gary Oak,16,Pallet Town,,Planned,2024-01-17 09:48:39
+160,63,Abra,psychic,25,20,15,90,False,104,Gary Oak,16,Pallet Town,124,Jynx,"Ice,psychic",,50,35,95,False,114,N Natural,24,Unknown,,Planned,2024-01-17 05:15:46
+175,17,Pidgeotto,"normal,flying",63,,55,71,False,118,Sabrina Psychic,20,Saffron City,4,Charmander,fire,,52,43,65,False,116,Lt. Surge Surge,29,Vermilion City,,Planned,2024-01-17 16:23:47
+244,72,Tentacool,"Water,poison",,40,35,,False,138,Liza Psychic,12,Mossdeep City,101,Electrode,Electric,,50,70,140,False,105,May Maple,13,Petalburg City,,Planned,2024-01-17 06:56:05
+255,79,Slowpoke,"Water,psychic",90,65,65,,False,120,Koga Poison,30,Unknown,54,Psyduck,water,50,52,48,55,False,109,Lance Dragonite,21,Blackthorn City,,Planned,2024-01-17 17:18:42
+256,76,Golem,"Rock,Ground",80,120,,45,False,139,Juan Water,32,Sootopolis City,96,Drowzee,psychic,60,,,42,False,106,Dawn Berlitz,10,Twinleaf Town,,Planned,2024-01-17 10:21:27
+341,48,Venonat,"bug,Poison",60,55,50,,False,101,Ash Ketchum,16,Pallet Town,37,Vulpix,fire,38,41,40,65,False,139,Juan Water,32,Sootopolis City,,Planned,2024-01-17 17:14:37
+368,72,Tentacool,"Water,Poison",,40,35,70,False,130,Karen Dark,22,Blackthorn City,112,Rhydon,"ground,Rock",105,130,120,40,False,106,Dawn Berlitz,10,Twinleaf Town,,Planned,2024-01-17 00:37:36
+385,49,Venomoth,"bug,poison",70,65,60,90,False,107,Cynthia Shirona,28,Snowpoint City,27,Sandshrew,Ground,50,75,85,40,False,137,Tate Psychic,12,Mossdeep City,,Planned,2024-01-17 14:49:04
+417,92,Gastly,"ghost,Poison",30,35,30,,False,130,Karen Dark,22,Blackthorn City,130,Gyarados,"Water,Flying",95,125,,81,False,108,Steven Stone,25,Mossdeep City,,Planned,2024-01-17 08:08:09
+464,124,Jynx,"ice,psychic",65,50,,,False,136,Winona Flying,28,Fortree City,137,Porygon,Normal,65,,70,40,False,102,Misty Waterflower,12,Cerulean City,,Planned,2024-01-17 15:14:21
+385,49,Venomoth,"bug,poison",70,65,60,90,False,107,Cynthia Shirona,28,Snowpoint City,27,Sandshrew,Ground,50,75,85,40,False,137,Tate Psychic,12,Mossdeep City,,In-Battle,2024-01-17 19:58:33
+484,36,Clefable,fairy,95,70,73,60,False,116,Lt. Surge Surge,29,Vermilion City,21,Spearow,"normal,Flying",40,60,30,70,False,146,Aaron Bug,19,Sandgem Town,,In-Battle,2024-01-17 19:23:32

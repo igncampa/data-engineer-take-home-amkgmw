@@ -1,0 +1,4 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+143,8,Wartortle,water,59,63,80,58,False,123,Whitney Normal,16,Goldenrod City,8,Wartortle,water,59,63,80,58,False,113,Wallace Juan,24,Sootopolis City,,In-Battle,2024-02-01 16:29:57
+438,27,Sandshrew,Ground,50,75,85,40,False,125,Pryce Ice,60,Mahogany Town,72,Tentacool,"Water,Poison",40,40,35,70,False,117,Erika Celadon,22,Celadon City,,In-Battle,2024-02-01 01:52:21
+475,148,Dragonair,dragon,61,84,65,70,False,144,Wallace Milotic,33,Sootopolis City,51,Dugtrio,Ground,35,80,50,120,False,102,Misty Waterflower,12,Cerulean City,,In-Battle,2024-02-01 11:29:55

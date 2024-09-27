@@ -1,0 +1,4 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+36,138,Omanyte,"rock,Water",35,40,100,35,False,142,Glacia Ice,29,Mossdeep City,74,Geodude,"rock,Ground",40,80,100,20,False,121,Janine Poison,15,Fuchsia City,,In-Battle,2024-02-10 06:14:49
+186,74,Geodude,"Rock,ground",40,80,100,20,False,144,Wallace Milotic,33,Sootopolis City,56,Mankey,fighting,40,80,35,70,False,142,Glacia Ice,29,Mossdeep City,,In-Battle,2024-02-10 18:40:54
+465,102,Exeggcute,"grass,Psychic",60,40,80,40,False,136,Winona Flying,28,Fortree City,10,Caterpie,bug,45,30,35,45,False,146,Aaron Bug,19,Sandgem Town,136,Completed,2024-02-10 04:14:50

@@ -1,0 +1,4 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+30,91,Cloyster,"Water,ice",50,95,180,70,False,120,Koga Poison,30,Unknown,61,Poliwhirl,Water,65,65,65,90,False,113,Wallace Juan,24,Sootopolis City,120,Completed,2024-02-06 21:05:00
+167,46,Paras,"Bug,grass",35,70,55,25,False,112,Leaf Green,18,Pallet Town,95,Onix,"Rock,ground",35,45,160,70,False,105,May Maple,13,Petalburg City,,In-Battle,2024-02-06 02:12:24
+206,127,Pinsir,Bug,65,125,100,85,False,117,Erika Celadon,22,Celadon City,68,Machamp,Fighting,90,130,80,55,False,106,Dawn Berlitz,10,Twinleaf Town,117,Completed,2024-02-06 15:24:09

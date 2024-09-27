@@ -1,0 +1,6 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+8,99,Kingler,water,55,130,115,75,False,115,Giovanni Rocket,35,Viridian City,56,Mankey,fighting,40,80,35,70,False,114,N Natural,24,Unknown,,In-Battle,2024-04-12 04:09:45
+101,49,Venomoth,"Bug,Poison",70,65,60,90,False,139,Juan Water,32,Sootopolis City,148,Dragonair,Dragon,61,84,65,70,False,127,Jasmine Steel,19,Olivine City,,In-Battle,2024-04-12 17:04:41
+130,25,Pikachu,Electric,35,55,40,90,False,142,Glacia Ice,29,Mossdeep City,11,Metapod,Bug,50,20,55,30,False,111,Blue Oak,18,Pallet Town,111,Completed,2024-04-12 19:48:36
+274,150,Mewtwo,Psychic,106,110,90,130,True,110,Red Champion,18,Pallet Town,84,Doduo,"Normal,flying",35,85,45,75,False,130,Karen Dark,22,Blackthorn City,110,Completed,2024-04-12 05:00:30
+337,54,Psyduck,Water,50,52,48,55,False,129,Bugsy Bug,16,Azalea Town,5,Charmeleon,Fire,58,64,58,80,False,112,Leaf Green,18,Pallet Town,129,Completed,2024-04-12 23:11:15

@@ -1,0 +1,11 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+4,151,Mew,Psychic,100,100,100,100,True,113,Wallace Juan,24,Sootopolis City,108,Lickitung,Normal,90,55,75,30,False,136,Winona Flying,28,Fortree City,113,Completed,2024-04-25 03:02:11
+36,138,Omanyte,"rock,Water",35,40,100,35,False,142,Glacia Ice,29,Mossdeep City,74,Geodude,"rock,Ground",40,80,100,20,False,121,Janine Poison,15,Fuchsia City,142,Completed,2024-04-25 02:04:39
+53,24,Arbok,poison,60,85,69,80,False,135,Norman Normal,40,Unknown,106,Hitmonlee,fighting,50,120,53,87,False,146,Aaron Bug,19,Sandgem Town,,In-Battle,2024-04-25 05:08:38
+154,133,Eevee,normal,55,55,50,55,False,128,Falkner Flying,17,Violet City,10,Caterpie,Bug,45,30,35,45,False,140,Sidney Dark,24,Lilycove City,,In-Battle,2024-04-25 08:28:04
+180,148,Dragonair,Dragon,61,84,65,70,False,141,Phoebe Ghost,27,Mount Pyre,85,Dodrio,"normal,Flying",60,110,70,100,False,143,Drake Dragon,45,Slateport City,143,Completed,2024-04-25 11:21:05
+214,64,Kadabra,psychic,40,35,30,105,False,117,Erika Celadon,22,Celadon City,86,Seel,Water,65,45,55,45,False,149,Lucian Psychic,28,Sunyshore City,,In-Battle,2024-04-25 02:48:05
+257,60,Poliwag,water,40,50,40,90,False,141,Phoebe Ghost,27,Mount Pyre,151,Mew,Psychic,100,100,100,100,True,106,Dawn Berlitz,10,Twinleaf Town,106,Completed,2024-04-25 10:38:40
+279,27,Sandshrew,ground,50,75,85,40,False,146,Aaron Bug,19,Sandgem Town,145,Zapdos,"electric,Flying",90,90,85,100,True,129,Bugsy Bug,16,Azalea Town,129,Completed,2024-04-25 15:42:17
+410,111,Rhyhorn,"ground,Rock",80,85,95,25,False,118,Sabrina Psychic,20,Saffron City,33,Nidorino,poison,61,72,57,65,False,121,Janine Poison,15,Fuchsia City,118,Completed,2024-04-25 09:58:44
+481,8,Wartortle,water,59,63,80,58,False,139,Juan Water,32,Sootopolis City,18,Pidgeot,"Normal,Flying",83,80,75,101,False,136,Winona Flying,28,Fortree City,136,Completed,2024-04-25 09:12:27

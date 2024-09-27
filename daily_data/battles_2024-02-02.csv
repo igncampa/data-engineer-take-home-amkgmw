@@ -1,0 +1,5 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+54,146,Moltres,"fire,flying",90,100,90,90,True,133,Wattson Electric,35,Mauville City,96,Drowzee,Psychic,60,48,45,42,False,127,Jasmine Steel,19,Olivine City,,In-Battle,2024-02-02 02:31:12
+83,26,Raichu,electric,60,90,55,110,False,136,Winona Flying,28,Fortree City,7,Squirtle,water,44,48,65,43,False,140,Sidney Dark,24,Lilycove City,136,Completed,2024-02-02 04:35:51
+429,88,Grimer,poison,80,80,50,25,False,111,Blue Oak,18,Pallet Town,124,Jynx,"ice,Psychic",65,50,35,95,False,125,Pryce Ice,60,Mahogany Town,111,Completed,2024-02-02 16:25:12
+480,51,Dugtrio,ground,35,80,50,120,False,132,Brawly Fighting,20,Dewford Town,89,Muk,Poison,105,105,75,50,False,122,Clair Dragon,21,Blackthorn City,,In-Battle,2024-02-02 01:47:24

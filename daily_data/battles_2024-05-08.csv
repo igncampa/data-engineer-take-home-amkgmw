@@ -1,0 +1,11 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+55,86,Seel,water,65,45,55,45,False,146,Aaron Bug,19,Sandgem Town,106,Hitmonlee,fighting,50,120,53,87,False,127,Jasmine Steel,19,Olivine City,127,Completed,2024-05-08 13:01:14
+93,16,Pidgey,"normal,flying",40,45,40,56,False,145,Steven Champion,35,Mossdeep City,101,Electrode,electric,60,50,70,140,False,143,Drake Dragon,45,Slateport City,143,Completed,2024-05-08 19:25:59
+141,33,Nidorino,poison,61,72,57,65,False,122,Clair Dragon,21,Blackthorn City,45,Vileplume,"Grass,Poison",75,80,85,50,False,124,Morty Ghost,25,Ecruteak City,124,Completed,2024-05-08 20:57:06
+150,118,Goldeen,water,45,67,60,63,False,144,Wallace Milotic,33,Sootopolis City,108,Lickitung,normal,90,55,75,30,False,111,Blue Oak,18,Pallet Town,,In-Battle,2024-05-08 08:45:08
+219,107,Hitmonchan,Fighting,50,105,79,76,False,145,Steven Champion,35,Mossdeep City,108,Lickitung,normal,90,55,75,30,False,117,Erika Celadon,22,Celadon City,145,Completed,2024-05-08 22:58:41
+253,40,Wigglytuff,"normal,fairy",140,70,45,45,False,119,Blaine Fire,50,Cinnabar Island,149,Dragonite,"dragon,Flying",91,134,95,80,False,122,Clair Dragon,21,Blackthorn City,122,Completed,2024-05-08 02:50:33
+281,143,Snorlax,normal,160,110,65,30,False,106,Dawn Berlitz,10,Twinleaf Town,49,Venomoth,"bug,Poison",70,65,60,90,False,110,Red Champion,18,Pallet Town,110,Completed,2024-05-08 19:35:20
+284,100,Voltorb,electric,40,30,50,100,False,117,Erika Celadon,22,Celadon City,43,Oddish,"grass,Poison",45,50,55,30,False,136,Winona Flying,28,Fortree City,117,Completed,2024-05-08 23:09:46
+347,136,Flareon,Fire,65,130,60,65,False,149,Lucian Psychic,28,Sunyshore City,140,Kabuto,"Rock,water",30,80,90,55,False,107,Cynthia Shirona,28,Snowpoint City,,In-Battle,2024-05-08 12:33:19
+387,89,Muk,Poison,105,105,75,50,False,132,Brawly Fighting,20,Dewford Town,32,Nidoran♂,poison,46,57,40,50,False,117,Erika Celadon,22,Celadon City,117,Completed,2024-05-08 02:03:46

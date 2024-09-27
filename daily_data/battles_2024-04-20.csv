@@ -1,0 +1,5 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+18,136,Flareon,fire,65,130,60,65,False,109,Lance Dragonite,21,Blackthorn City,1,Bulbasaur,"grass,poison",45,49,49,45,False,114,N Natural,24,Unknown,,In-Battle,2024-04-20 07:02:04
+18,136,Flareon,fire,65,130,60,65,False,109,Lance Dragonite,21,Blackthorn City,1,Bulbasaur,"grass,poison",45,49,49,45,False,114,N Natural,24,Unknown,109,Completed,2024-04-20 09:13:56
+194,11,Metapod,bug,50,20,55,30,False,111,Blue Oak,18,Pallet Town,63,Abra,Psychic,25,20,15,90,False,128,Falkner Flying,17,Violet City,128,Completed,2024-04-20 19:52:31
+474,20,Raticate,normal,55,81,60,97,False,112,Leaf Green,18,Pallet Town,76,Golem,"rock,Ground",80,120,130,45,False,123,Whitney Normal,16,Goldenrod City,123,Completed,2024-04-20 20:50:02

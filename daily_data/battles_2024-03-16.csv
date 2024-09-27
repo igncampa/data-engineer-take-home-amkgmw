@@ -1,0 +1,5 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+149,142,Aerodactyl,"Rock,Flying",80,105,65,130,False,124,Morty Ghost,25,Ecruteak City,94,Gengar,"ghost,poison",60,65,60,110,False,136,Winona Flying,28,Fortree City,124,Completed,2024-03-16 02:27:14
+202,46,Paras,"bug,grass",35,70,55,25,False,129,Bugsy Bug,16,Azalea Town,18,Pidgeot,"normal,flying",83,80,75,101,False,138,Liza Psychic,12,Mossdeep City,,In-Battle,2024-03-16 16:36:09
+418,33,Nidorino,Poison,61,72,57,65,False,129,Bugsy Bug,16,Azalea Town,121,Starmie,"Water,psychic",60,75,85,115,False,112,Leaf Green,18,Pallet Town,112,Completed,2024-03-16 15:00:31
+419,120,Staryu,water,30,45,55,85,False,125,Pryce Ice,60,Mahogany Town,58,Growlithe,Fire,55,70,45,60,False,131,Roxanne Rock,17,Rustboro City,131,Completed,2024-03-16 06:09:42

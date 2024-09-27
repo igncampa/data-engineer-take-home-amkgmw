@@ -1,0 +1,14 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+19,107,Hitmonchan,fighting,50,105,79,76,False,138,Liza Psychic,12,Mossdeep City,64,Kadabra,Psychic,40,35,30,105,False,133,Wattson Electric,35,Mauville City,133,Completed,2024-04-15 03:52:53
+43,89,Muk,Poison,105,105,75,50,False,146,Aaron Bug,19,Sandgem Town,61,Poliwhirl,Water,65,65,65,90,False,123,Whitney Normal,16,Goldenrod City,123,Completed,2024-04-15 03:02:03
+165,84,Doduo,"Normal,flying",35,85,45,75,False,108,Steven Stone,25,Mossdeep City,102,Exeggcute,"grass,psychic",60,40,80,40,False,117,Erika Celadon,22,Celadon City,117,Completed,2024-04-15 18:23:50
+197,13,Weedle,"Bug,Poison",40,35,30,50,False,118,Sabrina Psychic,20,Saffron City,122,Mr. Mime,"psychic,fairy",40,45,65,90,False,146,Aaron Bug,19,Sandgem Town,,In-Battle,2024-04-15 08:15:48
+220,117,Seadra,water,55,65,95,85,False,104,Gary Oak,16,Pallet Town,21,Spearow,"normal,Flying",40,60,30,70,False,105,May Maple,13,Petalburg City,105,Completed,2024-04-15 04:35:07
+306,33,Nidorino,Poison,61,72,57,65,False,106,Dawn Berlitz,10,Twinleaf Town,141,Kabutops,"Rock,Water",60,115,105,80,False,145,Steven Champion,35,Mossdeep City,145,Completed,2024-04-15 10:33:38
+331,151,Mew,psychic,100,100,100,100,True,132,Brawly Fighting,20,Dewford Town,137,Porygon,Normal,65,60,70,40,False,107,Cynthia Shirona,28,Snowpoint City,,In-Battle,2024-04-15 01:31:48
+342,106,Hitmonlee,fighting,50,120,53,87,False,110,Red Champion,18,Pallet Town,7,Squirtle,Water,44,48,65,43,False,118,Sabrina Psychic,20,Saffron City,118,Completed,2024-04-15 23:39:50
+343,45,Vileplume,"Grass,poison",75,80,85,50,False,143,Drake Dragon,45,Slateport City,5,Charmeleon,Fire,58,64,58,80,False,116,Lt. Surge Surge,29,Vermilion City,143,Completed,2024-04-15 04:49:52
+421,151,Mew,psychic,100,100,100,100,True,119,Blaine Fire,50,Cinnabar Island,9,Blastoise,Water,79,83,100,78,False,142,Glacia Ice,29,Mossdeep City,119,Completed,2024-04-15 10:46:08
+423,79,Slowpoke,"water,psychic",90,65,65,15,False,129,Bugsy Bug,16,Azalea Town,91,Cloyster,"Water,ice",50,95,180,70,False,126,Chuck Fighting,40,Cianwood City,,In-Battle,2024-04-15 18:25:21
+441,71,Victreebel,"grass,poison",80,105,65,70,False,125,Pryce Ice,60,Mahogany Town,83,Farfetch'd,"normal,Flying",52,65,55,60,False,120,Koga Poison,30,Unknown,,In-Battle,2024-04-15 18:32:33
+478,128,Tauros,Normal,75,100,95,110,False,137,Tate Psychic,12,Mossdeep City,52,Meowth,normal,40,45,35,90,False,135,Norman Normal,40,Unknown,137,Completed,2024-04-15 00:02:42

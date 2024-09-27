@@ -1,0 +1,5 @@
+battle_id,pokemon1_id,pokemon1_name,pokemon1_types,pokemon1_hp,pokemon1_attack,pokemon1_defense,pokemon1_speed,pokemon1_legendary,trainer1_id,trainer1_name,trainer1_age,trainer1_city,pokemon2_id,pokemon2_name,pokemon2_types,pokemon2_hp,pokemon2_attack,pokemon2_defense,pokemon2_speed,pokemon2_legendary,trainer2_id,trainer2_name,trainer2_age,trainer2_city,winner_trainer_id,battle_status,last_update_ts
+49,137,Porygon,normal,65,60,70,40,False,138,Liza Psychic,12,Mossdeep City,93,Haunter,"Ghost,Poison",45,50,45,95,False,140,Sidney Dark,24,Lilycove City,,In-Battle,2024-04-19 10:31:08
+88,145,Zapdos,"Electric,Flying",90,90,85,100,True,129,Bugsy Bug,16,Azalea Town,139,Omastar,"Rock,Water",70,60,125,55,False,134,Flannery Fire,23,Lavaridge Town,,In-Battle,2024-04-19 16:50:55
+101,49,Venomoth,"Bug,Poison",70,65,60,90,False,139,Juan Water,32,Sootopolis City,148,Dragonair,Dragon,61,84,65,70,False,127,Jasmine Steel,19,Olivine City,139,Completed,2024-04-19 15:07:25
+219,107,Hitmonchan,Fighting,50,105,79,76,False,145,Steven Champion,35,Mossdeep City,108,Lickitung,normal,90,55,75,30,False,117,Erika Celadon,22,Celadon City,,In-Battle,2024-04-19 01:42:40
