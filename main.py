@@ -11,6 +11,11 @@ def setup_logging(log_file, log_level='INFO'):
     """
     Sets up logging.
     """
+
+    log_folder = os.path.dirname(log_file)
+    if not os.path.exists(log_folder):
+        os.makedirs(log_folder)
+
     logging.basicConfig(
         filename=log_file,
         level=getattr(logging, log_level, logging.INFO),
